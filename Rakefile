@@ -23,5 +23,5 @@ task :default do
     end
   end
 
-  fail "Errors: #{errors}" if errors > 0
+  raise "Errors: #{errors}" if errors.positive?
 end
