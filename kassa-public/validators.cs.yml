@@ -12,6 +12,8 @@ cs:
     old_rate: 'Kurz se změnil. Vytvořte nový požadavek'
     old_rate2: 'Kurz zastaral. Vytvořte nový požadavek'
     unavailable_locale: 'Jazyk není podporován'
+    kyt:
+      failed: 'Vaše peněženka nesplňuje požadavky KYT, kontaktujte technickou podporu v chatu'
 
   validators:
     phone_validator:
@@ -84,4 +86,3 @@ cs:
       mismatch: 'Kartu této země nepřijímáme, zadejte prosím jiné číslo karty. Přečtěte si více o povoleném seznamu zemí v sekci FAQ.'
     card_bank:
       mismatch: 'Neakceptujeme kartu této banky, zadejte prosím jiné číslo karty.'
-    kyt_validation_failed: 'Vaše peněženka nesplňuje požadavky KYT, kontaktujte technickou podporu v chatu'
