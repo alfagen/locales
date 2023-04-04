@@ -1,4 +1,11 @@
 {
+  "headerInfo": {
+    "notice": "Автоматический обмен без верификации",
+    "fullday": "Круглосуточно",
+    "tg": "@kassa.cc",
+    "mail": "support@kassa.cc",
+    "chat": "Написать в чат"
+  },
   "links": {
     "about": "О сервисе",
     "gifts": "Подарки от сайта",
@@ -362,7 +369,7 @@
     "workTime": "Время работы",
     "mailSupport": "Поддержка по почте:",
     "firstTitle": "Техническая поддержка",
-    "firstWorkTime": "с 07:00 до 23:00 по МСК",
+    "firstWorkTime": "с 08:00 до 23:59 по МСК",
     "firstChatLabel": "Чат онлайн:",
     "openChat": "Открыть чат сейчас",
     "firstRequestLabel": "Написать оператору",
@@ -886,6 +893,8 @@
     "kursexpertName": "КурсЕксперт",
     "trustpilotText": "Отзывы о нас в",
     "trustpilotName": "Trustpilot",
+    "exnodeText": "Отзывы о нас на персональной странице мониторинга",
+    "exnodeName": "Exnode",
     "showAll": "Смотреть все <br/> мониторинги"
   },
   "forbiddenPage": {

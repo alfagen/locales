@@ -1,4 +1,11 @@
 {
+  "headerInfo": {
+    "notice": "Automatic exchange without verification",
+    "fullday": "24/7",
+    "tg": "@kassa.cc",
+    "mail": "support@kassa.cc",
+    "chat": "Support chat"
+  },
   "links": {
     "about": "O našich službách",
     "gifts": "Bonusy od našeho portálu",
@@ -286,7 +293,7 @@
     "workTime": "Pracovní doba",
     "mailSupport": "E-mailová podpora:",
     "firstTitle": "Technická podpora",
-    "firstWorkTime": "from 07:00 to 23:00 (GMT +3)",
+    "firstWorkTime": "from 08:00 to 23:59 (GMT +3)",
     "firstChatLabel": "Online chat:",
     "openChat": "Otevřít chat",
     "firstRequestLabel": "Kontaktovat operátora",
@@ -777,6 +784,8 @@
     "reviews": "Vaše podpora je pro nás velmi důležitá a jakákoli Vaše recenze nám pomůže lépe dělat naši práci! Děkujeme, že jste si vybrali právě nás!",
     "reviewsOn": "Naše recenze na",
     "monitoring": "Monitorování",
+    "exnodeText": "Recenze o nás na osobní monitorovací stránce",
+    "exnodeName": "Exnode",
     "forum": "Fórum"
   },
   "forbiddenPage": {
