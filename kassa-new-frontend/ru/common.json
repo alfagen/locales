@@ -10,12 +10,13 @@
     "news": "Новости",
     "faq": "FAQ",
     "signOut": "Выход",
-    "requests": "Мои заявки",
-    "verification": "Верификация карты",
+    "requests": "Заявки",
+    "verification": "Верификации",
     "referal": "Реферальная программа",
-    "promo": "Промо материалы",
+    "promo": "Промо",
     "settings": "Настройки",
-    "exchange": "Обмен"
+    "exchange": "Обмен",
+    "wallet": "Кошельки"
   },
   "setting": {
     "aml": {
