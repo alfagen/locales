@@ -10,13 +10,13 @@
     "main": "Main",
     "instructions": "Instructions",
     "partners": "Partners",
-    "news": "News",
+    "news": "Blog",
     "promotion": "Promotions",
     "updating": "Updates",
     "notify": "Notifications",
     "manual": "Manual",
     "exchange": "Exchange",
-    "kassaToday": "Kassa.today"
+    "kassaToday": "News"
   },
   "links": {
     "about": "About service",
