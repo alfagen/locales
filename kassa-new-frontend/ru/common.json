@@ -10,13 +10,13 @@
     "main": "Главная",
     "instructions": "Инструкции",
     "partners": "Партнерам",
-    "news": "Новости",
+    "news": "Блог",
     "promotion": "Акции",
     "updating": "Обновления",
     "notify": "Оповещения",
     "manual": "Справочник",
     "exchange": "Обмен",
-    "kassaToday": "Kassa.today"
+    "kassaToday": "Новости"
   },
   "links": {
     "about": "О сервисе",
