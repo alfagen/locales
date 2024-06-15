@@ -28,7 +28,6 @@ en:
       ETC: ''
       XMR: ''
       BCH: ''
-    default_company: 'kassa.cc'
     fill_details: '1 step. Fill card details below'
     default_product: 'Exchange kassa.cc. Order #%{order_id}'
     personal_payment: 'Personal payment №%{order_id}'
