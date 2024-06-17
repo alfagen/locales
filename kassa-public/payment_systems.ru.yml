@@ -300,5 +300,70 @@ ru:
         income_fio_label: ФИО плательщика
         outcome_fio: ФИО получателя
         outcome_fio_label: ФИО получателя
-        
- 
+      sberkzt:
+        income_account: Номер карты, 16 цифр
+        income_account_label: Номер карты
+        outcome_account: Номер карты, 16 цифр
+        outcome_account_label: Номер карты  
+      kkbkzt:
+        income_account: Номер карты, 16 цифр
+        income_account_label: Номер карты
+        outcome_account: Номер карты, 16 цифр
+        outcome_account_label: Номер карты 
+      hlkkzt:
+        income_account: Номер карты, 16 цифр
+        income_account_label: Номер карты
+        outcome_account: Номер карты, 16 цифр
+        outcome_account_label: Номер карты 
+      frtbkzt:
+        income_account: Номер карты, 16 цифр
+        income_account_label: Номер карты
+        outcome_account: Номер карты, 16 цифр
+        outcome_account_label: Номер карты 
+      cardkzt:
+        income_account: Номер карты, 16 цифр
+        income_account_label: Номер карты
+        outcome_account: Номер карты, 16 цифр
+        outcome_account_label: Номер карты 
+      cardazn:
+        income_account: Номер карты, 16 цифр
+        income_account_label: Номер карты
+        outcome_account: Номер карты, 16 цифр
+        outcome_account_label: Номер карты
+      advckzt:
+        income_account: Кошелек AdvCash KZT, T 3005 2342 8775
+        income_account_label: Кошелек AdvCash KZT
+        outcome_account: Кошелек AdvCash KZT, T 3005 2342 8775
+        outcome_account_label: Кошелек AdvCash KZT
+      advcuah:
+        income_account: Кошелек AdvCash UAH, H 3005 2342 8775
+        income_account_label: Кошелек AdvCash UAH
+        outcome_account: Кошелек AdvCash UAH, H 3005 2342 8775
+        outcome_account_label: Кошелек AdvCash UAH
+      usdterc20:
+        outcome_account: Кошелек USDT ERC20
+        outcome_account_label: Кошелек USDT ERC20
+      usdtpolygon:
+        outcome_account: Кошелек USDT POLYGON
+        outcome_account_label: Кошелек USDT POLYGON      
+      usdttrc20:
+        outcome_account: Кошелек USDT TRC20
+        outcome_account_label: Кошелек USDT TRC20
+      usdtsol:
+        outcome_account: Кошелек USDT SOL
+        outcome_account_label: Кошелек USDT SOL
+      usdtbep20:
+        outcome_account: Кошелек USDT BEP20
+        outcome_account_label: Кошелек USDT BEP20
+      usdcerc20:
+        outcome_account: Кошелек USDC ERC20
+        outcome_account_label: Кошелек USDC ERC20
+      usdcsol:
+        outcome_account: Кошелек USDC SOL
+        outcome_account_label: Кошелек USDC SOL
+      usdcbep20:
+        outcome_account: Кошелек USDC BEP20
+        outcome_account_label: Кошелек USDC BEP20      
+      sol:
+        outcome_account: Кошелек Solana
+        outcome_account_label: Кошелек Solana
