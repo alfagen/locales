@@ -4,14 +4,13 @@ en:
       need_help: Need help?
       message_support: Message support
       have_questions: 'Do you have questions? <br /> We help you!'
-      contact_support: Contact the support service on our website or by mail at support@kassa.cc.
-      final_slogan: 'With warmth and soul,<br /> Your Kassa!'
+      contact_support: Contact the support service on our website or by mail at %{email}.
       contact_operator: Contact operator
       contact_support_if_needed: If you have any questions, write to Technical Support. Our team will be happy to help you sort out the issues.
     activation_needed:
       welcome: Welcome to our family!
       congrats:  Congrats, %{nickname}!
-      success_registration: 'You have successfully registered on the site of the exchange service Kassa.cc. In order to get full access to your personal account, you need to activate your account. After activation, you can enjoy all the benefits of the Kassa service.'
+      success_registration: 'You have successfully registered on the site of the exchange service %{domain}. In order to get full access to your personal account, you need to activate your account. After activation, you can enjoy all the benefits of the service.'
       activate_title: Activate your account
       follow_the_link: 'Please follow the link to activate your account and open full access.:'
       activate_link_title: Activate account
@@ -43,17 +42,8 @@ en:
 
     common:
       slogan: Single currency exchange
-      updates: 'From December 1, 2018, Kassa.cc begins work under a license from the Czech National
-        bank. The update will allow you to exchange currencies with a bank card or through
-        payment systems, for example: Apple Pay, Google Pay and Samsung Pay. Walk simple
-        account verification to get new features.'
       receive: Get status
-      support: If you have any questions, you can contact our support service on our website
-        or write to us at support@kassa.cc.
-      postscript: "Thank you for choosing our service! Best Regards,
-        Your Kassa.</i>"
       contacts: Contacts
-      copyright: 2022, "Kassa.cc" - Single currency exchange
       generic_hello: Hello!
       hello: Hello, <b>%{nickname}</b>!
       goto_lk: Go to My Account
@@ -78,13 +68,13 @@ en:
     activation_success:
       title: Your has been activated
       message: Your account is active now.
-      full_access: 'Now you can enjoy all the benefits of service:'
+      full_access: 'Now you can enjoy all the benefits of %{domain}'
     new_tickets_confirmation:
       title: Confirm the withdrawal of funds.
       outcome: Withdrawing funds in the amount of %{amount}.
       warning: If you did this, please click on the button below to confirm the withdrawal
         of rewards for the current requisites. If this is not done by you, do not click
-        on the button and contact Technical Support as soon as possible.
+        on the button and contact Technical Support as soon as possible %{email}.
       goto_link: 'Please follow the link to complete the creation of an application for
         the withdrawal of rewards:'
       button: Confirm the output
@@ -164,7 +154,7 @@ en:
     reserve_request_complete:
       title: 'Reserve replenishment request processed!'
       hello: Greetings!
-      complete_message: 'Your request №%{id} to replenish the reserve of the service.'
+      complete_message: 'Your request №%{id} to replenish the reserve completed.'
       request_info: 'Information on request'
       payment_system: 'Payment system'
       amount: Amount
