@@ -765,6 +765,7 @@
     "account": "Bill №",
     "wallet": "Wallet",
     "sum": "Amount",
+    "accountName": "FIO",
     "invoiceId": "Must be included invoice id",
     "invoiceIdXrp": "Must be included Destination Tag",
     "destinationBank": "Destination Bank name"

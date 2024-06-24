@@ -815,6 +815,7 @@
     "account": "Сч. №",
     "wallet": "Кошелек",
     "sum": "Сумма",
+    "accountName": "ФИО",
     "invoiceId": "Обязательно укажите invoice id",
     "invoiceIdXrp": "Обязательно укажите Destination Tag",
     "destinationBank": "Банк назначения"
