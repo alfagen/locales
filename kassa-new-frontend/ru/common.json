@@ -16,7 +16,8 @@
     "notify": "Оповещения",
     "manual": "Справочник",
     "exchange": "Обмен",
-    "kassaToday": "Новости"
+    "kassaToday": "Новости",
+    "legal": "Правовые документы"
   },
   "links": {
     "about": "О сервисе",

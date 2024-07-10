@@ -16,7 +16,8 @@
     "notify": "Notifications",
     "manual": "Manual",
     "exchange": "Exchange",
-    "kassaToday": "News"
+    "kassaToday": "News",
+    "legal": "Legal documents"
   },
   "links": {
     "about": "About service",
