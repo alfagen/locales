@@ -775,7 +775,8 @@
     "content": "Platba na základě Vašeho požadavku nebyla na náš účet připsána během 18 minut. Jestli byly z Vašeho účty strženy nějaké prostředky, obraťte se prosím na technickou podporu."
   },
   "common": {
-    "kassa_sign": "S pozdravem\nVaše Kassa"
+    "kassa_sign": "S pozdravem\nVaše Kassa",
+    "important": "Důležité"
   },
   "paymentConfirm": {
     "cancel": "Zrušit a odejít",

@@ -806,7 +806,8 @@
     "content": "Within 18 minutes the payment for your application has not been credited to our account. In the event that funds have been written off from your account, contact technical support."
   },
   "common": {
-    "kassa_sign": "Respectfully, your Kassa."
+    "kassa_sign": "Respectfully, your Kassa.",
+    "important": "Important"
   },
   "paymentConfirm": {
     "cancel": "Cancel and exit",
