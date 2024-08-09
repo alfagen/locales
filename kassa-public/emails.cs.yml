@@ -104,6 +104,7 @@ cs:
       number_ticket: 'Č. Vašeho požadavku:'
       direction: 'Směr směny:'
       income_account: Převádíte z účtu/peněženky
+      income_bank: Banka
       income_amount: 'Převáděná částka:'
       outcome_account: 'Přijímáte na účet/do peněženky:'
       outcome_amount: 'Částka k obdržení:'

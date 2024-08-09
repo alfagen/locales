@@ -118,6 +118,7 @@ ru:
       number_ticket: "№ Вашей заявки:"
       direction: 'Направление обмена:'
       income_account: 'Вы переводите со счета/кошелька:'
+      income_bank: Банк
       income_amount: 'Сумма перевода:'
       outcome_account: 'Вы получаете на счет/кошелек:'
       outcome_amount: Сумма получения

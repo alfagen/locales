@@ -106,6 +106,7 @@ en:
       number_ticket: 'Your application number:'
       direction: 'Exchange direction:'
       income_account: 'You transfer from your account / wallet:'
+      income_bank: Bank
       income_amount: 'Transfer amount:'
       outcome_account: 'You get to the account / purse:'
       outcome_amount: Amount received
