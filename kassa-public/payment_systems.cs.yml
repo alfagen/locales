@@ -296,6 +296,19 @@ cs:
         outcome_unk_label: Number associated with SBP
         outcome_bank_name: Bank name
         outcome_bank_name_label:  Bank Name
+      mircrubtmp:
+        income_account: Card number, 16 digits
+        income_account_label: Card number
+        outcome_account: Card number, 16 digits
+        outcome_account_label: Card number 
+        income_fio: Sender full name
+        income_fio_label: Sender full name
+        outcome_fio: Receiver full name
+        outcome_fio_label: Receiver full name
+        outcome_unk: Number associated with SBP
+        outcome_unk_label: Number associated with SBP
+        outcome_bank_name: Bank name
+        outcome_bank_name_label:  Bank Name
       uzcuzs:
         income_account: Card number, 16 digits
         income_account_label: Card number

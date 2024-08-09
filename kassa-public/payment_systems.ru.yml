@@ -43,8 +43,8 @@ ru:
         outcome_account_label: Номер счета
         income_fio: ФИО отправителя
         income_fio_label: ФИО отправителя
-        income_unk: УНК
-        income_unk_label: УНК
+        income_unk: Доп данные
+        income_unk_label: Доп данные
         income_account: Номер счета
         income_account_label: Номер счета
         payment_card_exp_date: Окончание срока действия карты
@@ -262,6 +262,15 @@ ru:
         outcome_fio: Memo получателя
         outcome_fio_label: Memo получателя
       mircrub:
+        income_account: Номер карты, 16 цифр
+        income_account_label: Номер карты
+        outcome_account: Номер карты, 16 цифр
+        outcome_account_label: Номер карты
+        outcome_unk: Номер привязанный к СБП
+        outcome_unk_label: Номер привязанный к СБП
+        outcome_bank_name: Название банка
+        outcome_bank_name_label: Название банка
+      mircrubtmp:
         income_account: Номер карты, 16 цифр
         income_account_label: Номер карты
         outcome_account: Номер карты, 16 цифр

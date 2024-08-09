@@ -16,7 +16,8 @@
     "notify": "Notifications",
     "manual": "Manual",
     "exchange": "Exchange",
-    "kassaToday": "News"
+    "kassaToday": "News",
+    "legal": "Legal documents"
   },
   "links": {
     "about": "About service",
@@ -765,6 +766,7 @@
     "account": "Bill №",
     "wallet": "Wallet",
     "sum": "Amount",
+    "accountName": "FIO",
     "invoiceId": "Must be included invoice id",
     "invoiceIdXrp": "Must be included Destination Tag",
     "destinationBank": "Destination Bank name"
@@ -804,7 +806,8 @@
     "content": "Within 18 minutes the payment for your application has not been credited to our account. In the event that funds have been written off from your account, contact technical support."
   },
   "common": {
-    "kassa_sign": "Respectfully, your Kassa."
+    "kassa_sign": "Respectfully, your Kassa.",
+    "important": "Important"
   },
   "paymentConfirm": {
     "cancel": "Cancel and exit",

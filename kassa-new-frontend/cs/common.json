@@ -14,7 +14,8 @@
     "promotion": "Promotions",
     "updating": "Updates",
     "notify": "Notifications",
-    "manual": "Manual"
+    "manual": "Manual",
+    "legal": "Legal documents"
   },
   "links": {
     "about": "O našich službách",
@@ -734,6 +735,7 @@
     "account": "Č. ú.",
     "wallet": "Peněženka",
     "sum": "Částka",
+    "accountName": "FIO",
     "invoiceId": "Must be included invoice id",
     "invoiceIdXrp": "Must be included Destination Tag",
     "destinationBank": "Destination Bank name"
@@ -773,7 +775,8 @@
     "content": "Platba na základě Vašeho požadavku nebyla na náš účet připsána během 18 minut. Jestli byly z Vašeho účty strženy nějaké prostředky, obraťte se prosím na technickou podporu."
   },
   "common": {
-    "kassa_sign": "S pozdravem\nVaše Kassa"
+    "kassa_sign": "S pozdravem\nVaše Kassa",
+    "important": "Důležité"
   },
   "paymentConfirm": {
     "cancel": "Zrušit a odejít",
