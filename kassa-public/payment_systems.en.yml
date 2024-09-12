@@ -73,6 +73,15 @@ en:
         income_fio_label: Sender full name
         outcome_fio: Receiver full name
         outcome_fio_label: Receiver full name
+      sberrubtmp:
+        income_account: Sberbank card number, 16-18 digits
+        income_account_label: Sberbank card number
+        outcome_account: Sberbank card number, 16-18 digits
+        outcome_account_label: Sberbank card number
+        income_fio: Sender full name
+        income_fio_label: Sender full name
+        outcome_fio: Receiver full name
+        outcome_fio_label: Receiver full name
       yamrub:
         income_account: ЮMoney wallet, 10-16 digits
         income_account_label: ЮMoney wallet, 10-16 digits
