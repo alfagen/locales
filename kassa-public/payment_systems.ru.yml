@@ -280,10 +280,10 @@ ru:
         outcome_bank_name: Название банка
         outcome_bank_name_label: Название банка
       sberrubtmp:
-        income_account: Номер карты, 16 цифр
-        income_account_label: Номер карты
-        outcome_account: Номер карты, 16 цифр
-        outcome_account_label: Номер карты
+        income_account: Номер карты Сбербанка, 16-18 цифр
+        income_account_label: Номер карты Сбербанка
+        outcome_account: Номер карты Сбербанка, 16-18 цифр
+        outcome_account_label: Номер карты Сбербанка
         outcome_unk: Номер привязанный к СБП
         outcome_unk_label: Номер привязанный к СБП
         outcome_bank_name: Название банка
