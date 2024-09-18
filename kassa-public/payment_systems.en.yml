@@ -86,11 +86,11 @@ en:
         outcome_unk_label: Number associated with SBP
         outcome_bank_name: Bank name
         outcome_bank_name_label:  Bank Name
-      tinkofftmp:
-        income_account: Sberbank card number, 16-18 digits
-        income_account_label: Sberbank card number
-        outcome_account: Sberbank card number, 16-18 digits
-        outcome_account_label: Sberbank card number
+      tcsbrubtmp:
+        income_account: T bank card number, 16-18 digits
+        income_account_label: T bank card number
+        outcome_account: T bank card number, 16-18 digits
+        outcome_account_label: T bank card number
         income_fio: Sender full name
         income_fio_label: Sender full name
         outcome_fio: Receiver full name
@@ -209,10 +209,10 @@ en:
         outcome_unk: Number associated with SBP
         outcome_unk_label: Number associated with SBP
       tcsbrub:
-        income_account: Card number Tinkoff bank, 16 digits
-        income_account_label: Card number Tinkoff bank
-        outcome_account: Card number Tinkoff bank, 16 digits
-        outcome_account_label: Card number Tinkoff bank
+        income_account: Card number T bank, 16 digits
+        income_account_label: Card number T bank
+        outcome_account: Card number T bank, 16 digits
+        outcome_account_label: Card number T bank
         income_fio: Sender full name
         income_fio_label: Sender full name
         outcome_fio: Receiver full name
