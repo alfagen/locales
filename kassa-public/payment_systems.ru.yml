@@ -292,7 +292,7 @@ ru:
         outcome_bank_name_label: Название банка
         outcome_phone: Номер телефона СБП
         outcome_phone_label: Номер телефона СБП
-      tinkofftmp:
+      tcsbrubtmp:
         income_account: Номер карты Т банка, 16-18 цифр
         income_account_label: Номер карты Т банка
         outcome_account: Номер карты Т банка, 16-18 цифр
