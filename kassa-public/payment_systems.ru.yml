@@ -177,10 +177,10 @@ ru:
         outcome_unk: Номер привязанный к СБП
         outcome_unk_label: Номер привязанный к СБП
       tcsbrub:
-        income_account: Номер карты Тинькофф банка, 16 цифр
-        income_account_label: Номер карты Тинькофф банка
-        outcome_account: Номер карты Тинькофф банка, 16 цифр
-        outcome_account_label: Номер карты Тинькофф банка
+        income_account: Номер карты Т банка, 16 цифр
+        income_account_label: Номер карты Т банка
+        outcome_account: Номер карты Т банка, 16 цифр
+        outcome_account_label: Номер карты Т банка
         outcome_unk: Номер привязанный к СБП
         outcome_unk_label: Номер привязанный к СБП
       p24uah:
@@ -293,10 +293,10 @@ ru:
         outcome_phone: Номер телефона СБП
         outcome_phone_label: Номер телефона СБП
       tinkofftmp:
-        income_account: Номер карты Сбербанка, 16-18 цифр
-        income_account_label: Номер карты Сбербанка
-        outcome_account: Номер карты Сбербанка, 16-18 цифр
-        outcome_account_label: Номер карты Сбербанка
+        income_account: Номер карты Т банка, 16-18 цифр
+        income_account_label: Номер карты Т банка
+        outcome_account: Номер карты Т банка, 16-18 цифр
+        outcome_account_label: Номер карты Т банка
         outcome_unk: Номер привязанный к СБП
         outcome_unk_label: Номер привязанный к СБП
         outcome_bank_name: Название банка
