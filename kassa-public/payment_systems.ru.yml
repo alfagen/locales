@@ -63,6 +63,8 @@ ru:
         outcome_erip: ЕРИП
         income_phone: Номер телефона СБП
         outcome_phone: Номер телефона СБП
+        income_phone_label: Номер телефона СБП
+        outcome_phone_label: Номер телефона СБП
       pmusd:
         income_account: Кошелек Perfect Money, U1234567
         outcome_account: Кошелек Perfect Money, U1234567
