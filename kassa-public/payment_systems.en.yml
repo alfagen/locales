@@ -401,7 +401,7 @@ en:
         income_fio_label: Sender full name
         outcome_fio: Receiver full name
         outcome_fio_label: Receiver full name
-     sbprub:
+     sbprubtmp:
         income_account: Phone
         income_account_label: Phone
         outcome_account: Phone
@@ -414,7 +414,7 @@ en:
         income_fio_label: Sender full name
         outcome_fio: Receiver full name
         outcome_fio_label: Receiver full name
-     sberrubtmp:
+      sberrubtmp:
         income_account: Sberbank card number, 16-18 digits
         income_account_label: Sberbank card number
         outcome_account: Sberbank card number, 16-18 digits
