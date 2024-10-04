@@ -46,6 +46,12 @@ ru:
       leave_feedback_bestchange: BestChange - написать отзыв
       leave_feedback_mmgp: Оставить отзыв в ВКонтакте
       outcome_transaction: "Транзакция: %{link}"
+      kassa_feedback_button_title: оставить отзыв
+      kassa_feedback_button_url: https://www.bestchange.net/kassa-exchanger.html
+      xpay_feedback_button_title: оставить отзыв
+      xpay_feedback_button_url: x
+      mrmoney_feedback_button_title: оставить отзыв
+      mrmoney_feedback_button_url: x
     order_cheque_complete:
       title: Ваш номер чека!
       hello: Здравствуйте, %{nickname}!

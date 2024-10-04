@@ -33,6 +33,12 @@ cs:
       leave_feedback_bestchange: BestChange - napsat recenzi
       leave_feedback_mmgp: Napište recenzi na VK
       outcome_transaction: "Transakce: %{link}"
+      kassa_feedback_button_title: zanechat recenzi
+      kassa_feedback_button_url: https://www.bestchange.net/kassa-exchanger.html
+      xpay_feedback_button_title: zanechat recenzi
+      xpay_feedback_button_url: x
+      mrmoney_feedback_button_title: zanechat recenzi
+      mrmoney_feedback_button_url: x
     order_cheque_complete:
       title: Vaše kontrolní číslo!
       hello: Pozdravy, %{nickname}!
