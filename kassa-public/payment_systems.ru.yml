@@ -167,8 +167,10 @@ ru:
         income_account_label: Номер карты
         outcome_account: Номер карты, 16 цифр
         outcome_account_label: Номер карты
-        outcome_unk: Номер привязанный к СБП
-        outcome_unk_label: Номер привязанный к СБП
+        income_phone: Номер телефона СБП
+        outcome_phone: Номер телефона СБП
+        income_phone_label: Номер телефона СБП
+        outcome_phone_label: Номер телефона СБП
         outcome_bank_name: Название банка
         outcome_bank_name_label: Название банка
       acrub:
@@ -176,15 +178,19 @@ ru:
         income_account_label: Номер карты Альфа банка
         outcome_account: Номер карты Альфа банка, 16 цифр
         outcome_account_label: Номер карты Альфа банка
-        outcome_unk: Номер привязанный к СБП
-        outcome_unk_label: Номер привязанный к СБП
+        income_phone: Номер телефона СБП
+        outcome_phone: Номер телефона СБП
+        income_phone_label: Номер телефона СБП
+        outcome_phone_label: Номер телефона СБП
       tcsbrub:
         income_account: Номер карты Т банка, 16 цифр
         income_account_label: Номер карты Т банка
         outcome_account: Номер карты Т банка, 16 цифр
         outcome_account_label: Номер карты Т банка
-        outcome_unk: Номер привязанный к СБП
-        outcome_unk_label: Номер привязанный к СБП
+        income_phone: Номер телефона СБП
+        outcome_phone: Номер телефона СБП
+        income_phone_label: Номер телефона СБП
+        outcome_phone_label: Номер телефона СБП
       p24uah:
         income_account: Номер карты Приват банка, 16 цифр
         income_account_label: Номер карты Приват банка
@@ -274,44 +280,15 @@ ru:
         outcome_unk_label: Номер привязанный к СБП
         outcome_bank_name: Название банка
         outcome_bank_name_label: Название банка
-      mircrubtmp:
-        income_account: Номер карты, 16 цифр
-        income_account_label: Номер карты
-        outcome_account: Номер карты, 16 цифр
-        outcome_account_label: Номер карты
-        outcome_unk: Номер привязанный к СБП
-        outcome_unk_label: Номер привязанный к СБП
-        outcome_bank_name: Название банка
-        outcome_bank_name_label: Название банка
-      sberrubtmp:
-        income_account: Номер карты Сбербанка, 16-18 цифр
-        income_account_label: Номер карты Сбербанка
-        outcome_account: Номер карты Сбербанка, 16-18 цифр
-        outcome_account_label: Номер карты Сбербанка
-        outcome_unk: Номер привязанный к СБП
-        outcome_unk_label: Номер привязанный к СБП
-        outcome_bank_name: Название банка
-        outcome_bank_name_label: Название банка
-        outcome_phone: Номер телефона СБП
-        outcome_phone_label: Номер телефона СБП
-      tcsbrubtmp:
-        income_account: Номер карты Т банка, 16-18 цифр
-        income_account_label: Номер карты Т банка
-        outcome_account: Номер карты Т банка, 16-18 цифр
-        outcome_account_label: Номер карты Т банка
-        outcome_unk: Номер привязанный к СБП
-        outcome_unk_label: Номер привязанный к СБП
-        outcome_bank_name: Название банка
-        outcome_bank_name_label: Название банка
-        outcome_phone: Номер телефона СБП
-        outcome_phone_label: Номер телефона СБП
       rfbrub:
         income_account: Номер карты, 16 цифр
         income_account_label: Номер карты
         outcome_account: Номер карты, 16 цифр
         outcome_account_label: Номер карты
-        outcome_unk: Номер привязанный к СБП
-        outcome_unk_label: Номер привязанный к СБП
+        income_phone: Номер телефона СБП
+        outcome_phone: Номер телефона СБП
+        income_phone_label: Номер телефона СБП
+        outcome_phone_label: Номер телефона СБП
       uzcuzs:
         income_account: Номер карты, 16 цифр
         income_account_label: Номер карты
@@ -407,3 +384,81 @@ ru:
       sol:
         outcome_account: Кошелек Solana
         outcome_account_label: Кошелек Solana
+      mircrubtmp:
+        income_account: Номер карты, 16 цифр
+        income_account_label: Номер карты
+        outcome_account: Номер карты, 16 цифр
+        outcome_account_label: Номер карты
+        outcome_unk: Номер привязанный к СБП
+        outcome_unk_label: Номер привязанный к СБП
+        outcome_bank_name: Название банка
+        outcome_bank_name_label: Название банка
+      sberrubtmp:
+        income_account: Номер карты Сбербанка, 16-18 цифр
+        income_account_label: Номер карты Сбербанка
+        outcome_account: Номер карты Сбербанка, 16-18 цифр
+        outcome_account_label: Номер карты Сбербанка
+        outcome_unk: Номер привязанный к СБП
+        outcome_unk_label: Номер привязанный к СБП
+        outcome_bank_name: Название банка
+        outcome_bank_name_label: Название банка
+        income_phone: Номер телефона СБП
+        outcome_phone: Номер телефона СБП
+        income_phone_label: Номер телефона СБП
+        outcome_phone_label: Номер телефона СБП
+      tcsbrubtmp:
+        income_account: Номер карты Т банка, 16-18 цифр
+        income_account_label: Номер карты Т банка
+        outcome_account: Номер карты Т банка, 16-18 цифр
+        outcome_account_label: Номер карты Т банка
+        outcome_unk: Номер привязанный к СБП
+        outcome_unk_label: Номер привязанный к СБП
+        outcome_bank_name: Название банка
+        outcome_bank_name_label: Название банка
+        income_phone: Номер телефона СБП
+        outcome_phone: Номер телефона СБП
+        income_phone_label: Номер телефона СБП
+        outcome_phone_label: Номер телефона СБП
+      rfbrubtmp:
+        income_account: Номер карты, 16 цифр
+        income_account_label: Номер карты
+        outcome_account: Номер карты, 16 цифр
+        outcome_account_label: Номер карты
+        income_phone: Номер телефона СБП
+        outcome_phone: Номер телефона СБП
+        income_phone_label: Номер телефона СБП
+        outcome_phone_label: Номер телефона СБП
+      cardrubtmp:
+        income_account: Номер карты, 16 цифр
+        income_account_label: Номер карты
+        outcome_account: Номер карты, 16 цифр
+        outcome_account_label: Номер карты
+        income_phone: Номер телефона СБП
+        outcome_phone: Номер телефона СБП
+        income_phone_label: Номер телефона СБП
+        outcome_phone_label: Номер телефона СБП
+        outcome_bank_name: Название банка
+        outcome_bank_name_label: Название банка
+      acrubtmp:
+        income_account: Номер карты Альфа банка, 16 цифр
+        income_account_label: Номер карты Альфа банка
+        outcome_account: Номер карты Альфа банка, 16 цифр
+        outcome_account_label: Номер карты Альфа банка
+        income_phone: Номер телефона СБП
+        outcome_phone: Номер телефона СБП
+        income_phone_label: Номер телефона СБП
+        outcome_phone_label: Номер телефона СБП
+      sbprubtmp:
+        income_account: Номер телефона
+        income_account_label: Номер телефона
+        outcome_account: Номер телефона
+        outcome_account_label: Номер телефона
+        income_unk: Название банка
+        income_unk_label: Название банка
+        outcome_unk: Название банка
+        outcome_unk_label: Название банка
+        income_fio: ФИО плательщика
+        income_fio_label: ФИО плательщика
+        outcome_fio: ФИО получателя
+        outcome_fio_label: ФИО получателя
+      
