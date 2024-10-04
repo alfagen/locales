@@ -75,32 +75,10 @@ en:
         income_fio_label: Sender full name
         outcome_fio: Receiver full name
         outcome_fio_label: Receiver full name
-      sberrubtmp:
-        income_account: Sberbank card number, 16-18 digits
-        income_account_label: Sberbank card number
-        outcome_account: Sberbank card number, 16-18 digits
-        outcome_account_label: Sberbank card number
-        income_fio: Sender full name
-        income_fio_label: Sender full name
-        outcome_fio: Receiver full name
-        outcome_fio_label: Receiver full name
-        outcome_unk: Number associated with SBP
-        outcome_unk_label: Number associated with SBP
-        outcome_bank_name: Bank name
-        outcome_bank_name_label:  Bank Name
-      tcsbrubtmp:
-        income_account: T bank card number, 16-18 digits
-        income_account_label: T bank card number
-        outcome_account: T bank card number, 16-18 digits
-        outcome_account_label: T bank card number
-        income_fio: Sender full name
-        income_fio_label: Sender full name
-        outcome_fio: Receiver full name
-        outcome_fio_label: Receiver full name
-        outcome_unk: Number associated with SBP
-        outcome_unk_label: Number associated with SBP
-        outcome_bank_name: Bank name
-        outcome_bank_name_label:  Bank Name
+        income_phone: SBP phone number
+        outcome_phone: SBP phone number
+        income_phone_label: SBP phone number
+        outcome_phone_label: SBP phone number
       yamrub:
         income_account: ЮMoney wallet, 10-16 digits
         income_account_label: ЮMoney wallet, 10-16 digits
@@ -195,8 +173,10 @@ en:
         income_fio_label: Sender full name
         outcome_fio: Receiver full name
         outcome_fio_label: Receiver full name
-        outcome_unk: Number associated with SBP
-        outcome_unk_label: Number associated with SBP
+        income_phone: SBP phone number
+        outcome_phone: SBP phone number
+        income_phone_label: SBP phone number
+        outcome_phone_label: SBP phone number
         outcome_bank_name: Bank name
         outcome_bank_name_label:  Bank Name
       acrub:
@@ -208,8 +188,10 @@ en:
         income_fio_label: Sender full name
         outcome_fio: Receiver full name
         outcome_fio_label: Receiver full name
-        outcome_unk: Number associated with SBP
-        outcome_unk_label: Number associated with SBP
+        income_phone: SBP phone number
+        outcome_phone: SBP phone number
+        income_phone_label: SBP phone number
+        outcome_phone_label: SBP phone number
       tcsbrub:
         income_account: Card number T bank, 16 digits
         income_account_label: Card number T bank
@@ -219,8 +201,10 @@ en:
         income_fio_label: Sender full name
         outcome_fio: Receiver full name
         outcome_fio_label: Receiver full name
-        outcome_unk: Number associated with SBP
-        outcome_unk_label: Number associated with SBP
+        income_phone: SBP phone number
+        outcome_phone: SBP phone number
+        income_phone_label: SBP phone number
+        outcome_phone_label: SBP phone number
       p24uah:
         income_account: Card number Privat bank, 16 digits
         income_account_label: Card number Privat bank
@@ -322,8 +306,10 @@ en:
         income_fio_label: Sender full name
         outcome_fio: Receiver full name
         outcome_fio_label: Receiver full name
-        outcome_unk: Number associated with SBP
-        outcome_unk_label: Number associated with SBP
+        income_phone: SBP phone number
+        outcome_phone: SBP phone number
+        income_phone_label: SBP phone number
+        outcome_phone_label: SBP phone number
         outcome_bank_name: Bank name
         outcome_bank_name_label:  Bank Name
       rfbrub:
@@ -335,8 +321,10 @@ en:
         income_fio_label: Sender full name
         outcome_fio: Receiver full name
         outcome_fio_label: Receiver full name
-        outcome_unk: Number associated with SBP
-        outcome_unk_label: Number associated with SBP
+        income_phone: SBP phone number
+        outcome_phone: SBP phone number
+        income_phone_label: SBP phone number
+        outcome_phone_label: SBP phone number
       uzcuzs:
         income_account: Card number, 16 digits
         income_account_label: Card number
@@ -413,4 +401,90 @@ en:
         income_fio_label: Sender full name
         outcome_fio: Receiver full name
         outcome_fio_label: Receiver full name
+     sberrubtmp:
+        income_account: Sberbank card number, 16-18 digits
+        income_account_label: Sberbank card number
+        outcome_account: Sberbank card number, 16-18 digits
+        outcome_account_label: Sberbank card number
+        income_fio: Sender full name
+        income_fio_label: Sender full name
+        outcome_fio: Receiver full name
+        outcome_fio_label: Receiver full name
+        income_phone: SBP phone number
+        outcome_phone: SBP phone number
+        income_phone_label: SBP phone number
+        outcome_phone_label: SBP phone number
+        outcome_bank_name: Bank name
+        outcome_bank_name_label:  Bank Name
+      tcsbrubtmp:
+        income_account: T bank card number, 16-18 digits
+        income_account_label: T bank card number
+        outcome_account: T bank card number, 16-18 digits
+        outcome_account_label: T bank card number
+        income_fio: Sender full name
+        income_fio_label: Sender full name
+        outcome_fio: Receiver full name
+        outcome_fio_label: Receiver full name
+        income_phone: SBP phone number
+        outcome_phone: SBP phone number
+        income_phone_label: SBP phone number
+        outcome_phone_label: SBP phone number
+        outcome_bank_name: Bank name
+        outcome_bank_name_label:  Bank Name
+      cardrubtmp:
+        income_account: Card number, 16 digits
+        income_account_label: Card number
+        outcome_account: Card number, 16 digits
+        outcome_account_label: Card number
+        income_fio: Sender full name
+        income_fio_label: Sender full name
+        outcome_fio: Receiver full name
+        outcome_fio_label: Receiver full name
+        income_phone: SBP phone number
+        outcome_phone: SBP phone number
+        income_phone_label: SBP phone number
+        outcome_phone_label: SBP phone number
+        outcome_bank_name: Bank name
+        outcome_bank_name_label:  Bank Name
+      acrubtmp:
+        income_account: Card number Alfa bank, 16 digits
+        income_account_label: Card number Alfa bank
+        outcome_account: Card number Alfa bank, 16 digits
+        outcome_account_label: Card number Alfa bank
+        income_fio: Sender full name
+        income_fio_label: Sender full name
+        outcome_fio: Receiver full name
+        outcome_fio_label: Receiver full name
+        income_phone: SBP phone number
+        outcome_phone: SBP phone number
+        income_phone_label: SBP phone number
+        outcome_phone_label: SBP phone number
+      mircrubtmp:
+        income_account: Card number, 16 digits
+        income_account_label: Card number
+        outcome_account: Card number, 16 digits
+        outcome_account_label: Card number
+        income_fio: Sender full name
+        income_fio_label: Sender full name
+        outcome_fio: Receiver full name
+        outcome_fio_label: Receiver full name
+        income_phone: SBP phone number
+        outcome_phone: SBP phone number
+        income_phone_label: SBP phone number
+        outcome_phone_label: SBP phone number
+        outcome_bank_name: Bank name
+        outcome_bank_name_label:  Bank Name
+      rfbrubtmp:
+        income_account: Card number, 16 digits
+        income_account_label: Card number
+        outcome_account: Card number, 16 digits
+        outcome_account_label: Card number
+        income_fio: Sender full name
+        income_fio_label: Sender full name
+        outcome_fio: Receiver full name
+        outcome_fio_label: Receiver full name
+        income_phone: SBP phone number
+        outcome_phone: SBP phone number
+        income_phone_label: SBP phone number
+        outcome_phone_label: SBP phone number
      
