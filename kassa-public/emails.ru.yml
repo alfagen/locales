@@ -131,6 +131,9 @@ ru:
       fio: 'ФИО:'
       create_at: 'Время и дата оформления:'
       payment_system_name: 'Наименование ПС или Банка:'
+      rate_type: 'Тип курса:'
+      rate_type_flexible: 'выгодный'
+      rate_type_fixed: 'точный'
     password_remind:
       title: Восстановление пароля
       request: Уважаемый клиент, Вы, либо кто-то еще запросил напоминание пароля по e-mail.

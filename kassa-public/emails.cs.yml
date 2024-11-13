@@ -117,6 +117,9 @@ cs:
       fio: 'Jméno a příjmení:'
       create_at: 'Datum a čas vytvoření:'
       payment_system_name: 'Název platebního systému či banky:'
+      rate_type: 'Typ sazby:'
+      rate_type_flexible: 'příznivé'
+      rate_type_fixed: 'pevné'
     password_remind:
       title: Obnova hesla
       request: 'Vážený zákazníku, Vy, nebo jiná osoba, jste požádal o připomenutí hesla
