@@ -119,6 +119,9 @@ en:
       fio: 'FULL NAME:'
       create_at: 'Date and time of registration:'
       payment_system_name: 'Name of PS or Bank:'
+      rate_type: 'Rate type:'
+      rate_type_flexible: 'favorable'
+      rate_type_fixed: 'fixed'
     password_remind:
       title: Password recovery
       request: Dear customer, you or someone else has requested a password reminder by
