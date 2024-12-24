@@ -389,8 +389,8 @@ en:
         outcome_fio: Receiver full name
         outcome_fio_label: Receiver full name
       sbprub:
-        income_account: Phone
-        income_account_label: Phone
+        income_account: Card number, 16 digits
+        income_account_label: Card number, 16 digits
         outcome_account: Phone
         outcome_account_label: Phone
         income_unk: Bank name
@@ -402,8 +402,8 @@ en:
         outcome_fio: Receiver full name
         outcome_fio_label: Receiver full name
       sbprubtmp:
-        income_account: Phone
-        income_account_label: Phone
+        income_account: Card number, 16 digits
+        income_account_label: Card number, 16 digits
         outcome_account: Phone
         outcome_account_label: Phone
         income_unk: Bank name
