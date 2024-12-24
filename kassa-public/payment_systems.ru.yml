@@ -300,8 +300,8 @@ ru:
         outcome_account: Номер карты, 16 цифр
         outcome_account_label: Номер карты  
       sbprub:
-        income_account: Номер телефона
-        income_account_label: Номер телефона
+        income_account: Номер карты
+        income_account_label: Номер карты
         outcome_account: Номер телефона
         outcome_account_label: Номер телефона
         income_unk: Название банка
@@ -449,8 +449,8 @@ ru:
         income_phone_label: Номер телефона СБП
         outcome_phone_label: Номер телефона СБП
       sbprubtmp:
-        income_account: Номер телефона
-        income_account_label: Номер телефона
+        income_account: Номер карты
+        income_account_label: Номер карты
         outcome_account: Номер телефона
         outcome_account_label: Номер телефона
         income_unk: Название банка
