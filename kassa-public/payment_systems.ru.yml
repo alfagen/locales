@@ -461,8 +461,8 @@ ru:
       rshbrub:
         income_account: Номер карты
         income_account_label: Номер карты
-        outcome_account: Номер телефона
-        outcome_account_label: Номер телефона
+        outcome_account: Номер карты
+        outcome_account_label: Номер карты
         income_unk: Название банка
         income_unk_label: Название банка
         outcome_unk: Название банка
@@ -474,8 +474,8 @@ ru:
       rosbrub:
         income_account: Номер карты
         income_account_label: Номер карты
-        outcome_account: Номер телефона
-        outcome_account_label: Номер телефона
+        outcome_account: Номер карты
+        outcome_account_label: Номер карты
         income_unk: Название банка
         income_unk_label: Название банка
         outcome_unk: Название банка
@@ -487,8 +487,8 @@ ru:
       rnkbrub:
         income_account: Номер карты
         income_account_label: Номер карты
-        outcome_account: Номер телефона
-        outcome_account_label: Номер телефона
+        outcome_account: Номер карты
+        outcome_account_label: Номер карты
         income_unk: Название банка
         income_unk_label: Название банка
         outcome_unk: Название банка
@@ -500,8 +500,8 @@ ru:
       psbrub:
         income_account: Номер карты
         income_account_label: Номер карты
-        outcome_account: Номер телефона
-        outcome_account_label: Номер телефона
+        outcome_account: Номер карты
+        outcome_account_label: Номер карты
         income_unk: Название банка
         income_unk_label: Название банка
         outcome_unk: Название банка
@@ -513,8 +513,8 @@ ru:
       postbrub:
         income_account: Номер карты
         income_account_label: Номер карты
-        outcome_account: Номер телефона
-        outcome_account_label: Номер телефона
+        outcome_account: Номер карты
+        outcome_account_label: Номер карты
         income_unk: Название банка
         income_unk_label: Название банка
         outcome_unk: Название банка
@@ -526,8 +526,8 @@ ru:
       opnbrub:
         income_account: Номер карты
         income_account_label: Номер карты
-        outcome_account: Номер телефона
-        outcome_account_label: Номер телефона
+        outcome_account: Номер карты
+        outcome_account_label: Номер карты
         income_unk: Название банка
         income_unk_label: Название банка
         outcome_unk: Название банка
@@ -539,8 +539,8 @@ ru:
       mtsbrub:
         income_account: Номер карты
         income_account_label: Номер карты
-        outcome_account: Номер телефона
-        outcome_account_label: Номер телефона
+        outcome_account: Номер карты
+        outcome_account_label: Номер карты
         income_unk: Название банка
         income_unk_label: Название банка
         outcome_unk: Название банка
@@ -552,8 +552,8 @@ ru:
       gpbrub:
         income_account: Номер карты
         income_account_label: Номер карты
-        outcome_account: Номер телефона
-        outcome_account_label: Номер телефона
+        outcome_account: Номер карты
+        outcome_account_label: Номер карты
         income_unk: Название банка
         income_unk_label: Название банка
         outcome_unk: Название банка
@@ -565,8 +565,8 @@ ru:
       tbrub:
         income_account: Номер карты
         income_account_label: Номер карты
-        outcome_account: Номер телефона
-        outcome_account_label: Номер телефона
+        outcome_account: Номер карты
+        outcome_account_label: Номер карты
         income_unk: Название банка
         income_unk_label: Название банка
         outcome_unk: Название банка
@@ -578,8 +578,8 @@ ru:
       russtrub:
         income_account: Номер карты
         income_account_label: Номер карты
-        outcome_account: Номер телефона
-        outcome_account_label: Номер телефона
+        outcome_account: Номер карты
+        outcome_account_label: Номер карты
         income_unk: Название банка
         income_unk_label: Название банка
         outcome_unk: Название банка
@@ -591,8 +591,8 @@ ru:
       avbrub:
         income_account: Номер карты
         income_account_label: Номер карты
-        outcome_account: Номер телефона
-        outcome_account_label: Номер телефона
+        outcome_account: Номер карты
+        outcome_account_label: Номер карты
         income_unk: Название банка
         income_unk_label: Название банка
         outcome_unk: Название банка
