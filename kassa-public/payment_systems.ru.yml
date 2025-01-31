@@ -96,9 +96,6 @@ ru:
         intcome_account: Кошелек Payeer USD, P1234567
         outcome_account: Кошелек Payeer USD, P1234567
         outcome_account_label: Кошелек Payeer USD
-      avbrub:
-        outcome_account: Кошелек AdvCash, R 3005 2342 8775
-        outcome_account_label: Кошелек AdvCash
       ltc:
         outcome_account: Кошелек Litecoin
         outcome_account_label: Кошелек Litecoin
@@ -461,4 +458,147 @@ ru:
         income_fio_label: ФИО плательщика
         outcome_fio: ФИО получателя
         outcome_fio_label: ФИО получателя
-      
+      rshbrub:
+        income_account: Номер карты
+        income_account_label: Номер карты
+        outcome_account: Номер телефона
+        outcome_account_label: Номер телефона
+        income_unk: Название банка
+        income_unk_label: Название банка
+        outcome_unk: Название банка
+        outcome_unk_label: Название банка
+        income_fio: ФИО плательщика
+        income_fio_label: ФИО плательщика
+        outcome_fio: ФИО получателя
+        outcome_fio_label: ФИО получателя
+      rosbrub:
+        income_account: Номер карты
+        income_account_label: Номер карты
+        outcome_account: Номер телефона
+        outcome_account_label: Номер телефона
+        income_unk: Название банка
+        income_unk_label: Название банка
+        outcome_unk: Название банка
+        outcome_unk_label: Название банка
+        income_fio: ФИО плательщика
+        income_fio_label: ФИО плательщика
+        outcome_fio: ФИО получателя
+        outcome_fio_label: ФИО получателя      
+      rnkbrub:
+        income_account: Номер карты
+        income_account_label: Номер карты
+        outcome_account: Номер телефона
+        outcome_account_label: Номер телефона
+        income_unk: Название банка
+        income_unk_label: Название банка
+        outcome_unk: Название банка
+        outcome_unk_label: Название банка
+        income_fio: ФИО плательщика
+        income_fio_label: ФИО плательщика
+        outcome_fio: ФИО получателя
+        outcome_fio_label: ФИО получателя
+      psbrub:
+        income_account: Номер карты
+        income_account_label: Номер карты
+        outcome_account: Номер телефона
+        outcome_account_label: Номер телефона
+        income_unk: Название банка
+        income_unk_label: Название банка
+        outcome_unk: Название банка
+        outcome_unk_label: Название банка
+        income_fio: ФИО плательщика
+        income_fio_label: ФИО плательщика
+        outcome_fio: ФИО получателя
+        outcome_fio_label: ФИО получателя
+      postbrub:
+        income_account: Номер карты
+        income_account_label: Номер карты
+        outcome_account: Номер телефона
+        outcome_account_label: Номер телефона
+        income_unk: Название банка
+        income_unk_label: Название банка
+        outcome_unk: Название банка
+        outcome_unk_label: Название банка
+        income_fio: ФИО плательщика
+        income_fio_label: ФИО плательщика
+        outcome_fio: ФИО получателя
+        outcome_fio_label: ФИО получателя
+      opnbrub:
+        income_account: Номер карты
+        income_account_label: Номер карты
+        outcome_account: Номер телефона
+        outcome_account_label: Номер телефона
+        income_unk: Название банка
+        income_unk_label: Название банка
+        outcome_unk: Название банка
+        outcome_unk_label: Название банка
+        income_fio: ФИО плательщика
+        income_fio_label: ФИО плательщика
+        outcome_fio: ФИО получателя
+        outcome_fio_label: ФИО получателя
+      mtsbrub:
+        income_account: Номер карты
+        income_account_label: Номер карты
+        outcome_account: Номер телефона
+        outcome_account_label: Номер телефона
+        income_unk: Название банка
+        income_unk_label: Название банка
+        outcome_unk: Название банка
+        outcome_unk_label: Название банка
+        income_fio: ФИО плательщика
+        income_fio_label: ФИО плательщика
+        outcome_fio: ФИО получателя
+        outcome_fio_label: ФИО получателя
+      gpbrub:
+        income_account: Номер карты
+        income_account_label: Номер карты
+        outcome_account: Номер телефона
+        outcome_account_label: Номер телефона
+        income_unk: Название банка
+        income_unk_label: Название банка
+        outcome_unk: Название банка
+        outcome_unk_label: Название банка
+        income_fio: ФИО плательщика
+        income_fio_label: ФИО плательщика
+        outcome_fio: ФИО получателя
+        outcome_fio_label: ФИО получателя
+      tbrub:
+        income_account: Номер карты
+        income_account_label: Номер карты
+        outcome_account: Номер телефона
+        outcome_account_label: Номер телефона
+        income_unk: Название банка
+        income_unk_label: Название банка
+        outcome_unk: Название банка
+        outcome_unk_label: Название банка
+        income_fio: ФИО плательщика
+        income_fio_label: ФИО плательщика
+        outcome_fio: ФИО получателя
+        outcome_fio_label: ФИО получателя
+      russtrub:
+        income_account: Номер карты
+        income_account_label: Номер карты
+        outcome_account: Номер телефона
+        outcome_account_label: Номер телефона
+        income_unk: Название банка
+        income_unk_label: Название банка
+        outcome_unk: Название банка
+        outcome_unk_label: Название банка
+        income_fio: ФИО плательщика
+        income_fio_label: ФИО плательщика
+        outcome_fio: ФИО получателя
+        outcome_fio_label: ФИО получателя
+      avbrub:
+        income_account: Номер карты
+        income_account_label: Номер карты
+        outcome_account: Номер телефона
+        outcome_account_label: Номер телефона
+        income_unk: Название банка
+        income_unk_label: Название банка
+        outcome_unk: Название банка
+        outcome_unk_label: Название банка
+        income_fio: ФИО плательщика
+        income_fio_label: ФИО плательщика
+        outcome_fio: ФИО получателя
+        outcome_fio_label: ФИО получателя
+        
