@@ -500,7 +500,7 @@ en:
         outcome_phone: SBP phone number
         income_phone_label: SBP phone number
         outcome_phone_label: SBP phone number
-     rshbrub:
+      rshbrub:
         income_account: Card number, 16 digits
         income_account_label: Card number
         outcome_account: Card number, 16 digits
