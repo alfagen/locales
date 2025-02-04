@@ -643,3 +643,12 @@ en:
         outcome_phone: SBP phone number
         income_phone_label: SBP phone number
         outcome_phone_label: SBP phone number
+     cardbyn:
+        income_account: Card number, 16 digits
+        income_account_label: Card number
+        outcome_account: Card number, 16 digits
+        outcome_account_label: Card number
+        outcome_unk: ERIP
+        outcome_unk_label: ERIP
+        outcome_operator: IBAN
+        outcome_operator_label: IBAN
