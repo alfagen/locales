@@ -601,3 +601,12 @@ ru:
         income_fio_label: ФИО плательщика
         outcome_fio: ФИО получателя
         outcome_fio_label: ФИО получателя
+      cardbyn:
+        income_account: Номер карты, 16 цифр
+        income_account_label: Номер карты
+        outcome_account: Номер карты, 16 цифр
+        outcome_account_label: Номер карты
+        outcome_unk: ЕРИП
+        outcome_unk_label: ЕРИП
+        outcome_operator: IBAN
+        outcome_operator_label: IBAN
