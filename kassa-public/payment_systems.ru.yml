@@ -610,3 +610,18 @@ ru:
         outcome_unk_label: ЕРИП
         outcome_operator: IBAN
         outcome_operator_label: IBAN
+      cptsusd:
+        intcome_account: Кошелек Capitalist USD
+        intcome_account_label: Кошелек Capitalist USD
+        outcome_account: Кошелек Capitalist USD
+        outcome_account_label: Кошелек Capitalist USD
+      cptsrub:
+        intcome_account: Кошелек Capitalist RUB
+        intcome_account_label: Кошелек Capitalist RUB
+        outcome_account: Кошелек Capitalist RUB
+        outcome_account_label: Кошелек Capitalist RUB
+      cptseur:
+        intcome_account: Кошелек Capitalist EUR
+        intcome_account_label: Кошелек Capitalist EUR
+        outcome_account: Кошелек Capitalist EUR
+        outcome_account_label: Кошелек Capitalist EUR
