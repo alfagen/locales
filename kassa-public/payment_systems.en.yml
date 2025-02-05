@@ -652,3 +652,18 @@ en:
           outcome_unk_label: ERIP
           outcome_operator: IBAN
           outcome_operator_label: IBAN
+      cptsusd:
+        intcome_account: Capitalist wallet USD
+        intcome_account_label: Capitalist wallet USD
+        outcome_account: Capitalist wallet USD
+        outcome_account_label: Capitalist wallet USD
+      cptsrub:
+        intcome_account: Capitalist wallet RUB
+        intcome_account_label: Capitalist wallet RUB
+        outcome_account: Capitalist wallet RUB
+        outcome_account_label: Capitalist wallet RUB
+      cptseur:
+        intcome_account: Capitalist wallet EUR
+        intcome_account_label: Capitalist wallet EUR
+        outcome_account: Capitalist wallet EUR
+        outcome_account_label: Capitalist wallet EUR
