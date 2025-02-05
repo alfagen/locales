@@ -103,20 +103,20 @@ ru:
         outcome_account: Кошелек Ethereum
         outcome_account_label: Кошелек Ethereum
       advcusd:
-        intcome_account: Кошелек AdvCash USD, U 3005 2342 8775
-        intcome_account_label: Кошелек AdvCash USD
-        outcome_account: Кошелек AdvCash USD, U 3005 2342 8775
-        outcome_account_label: Кошелек AdvCash USD
+        intcome_account: Кошелек Volet USD, U 3005 2342 8775
+        intcome_account_label: Кошелек Volet USD
+        outcome_account: Кошелек Volet USD, U 3005 2342 8775
+        outcome_account_label: Кошелек Volet USD
       prrub:
         income_account: Кошелек Payeer RUB, P1234567
         income_account_label: Кошелек Payeer RUB
         outcome_account: Кошелек Payeer RUB, P1234567
         outcome_account_label: Кошелек Payeer RUB
       advcrub:
-        intcome_account: Кошелек AdvCash RUB, R 3005 2342 8775
-        intcome_account_label: Кошелек AdvCash RUB
-        outcome_account: Кошелек AdvCash RUB, R 3005 2342 8775
-        outcome_account_label: Кошелек AdvCash RUB
+        intcome_account: Кошелек Volet RUB, R 3005 2342 8775
+        intcome_account_label: Кошелек Volet RUB
+        outcome_account: Кошелек Volet RUB, R 3005 2342 8775
+        outcome_account_label: Кошелек Volet RUB
       dash:
         outcome_account: Кошелек Dash
         outcome_account_label: Кошелек Dash
@@ -150,10 +150,10 @@ ru:
         outcome_account: Кошелек Perfect Money, E1234567
         outcome_account_label: Кошелек Perfect Money
       advceur:
-        income_account: Кошелек AdvCash EUR, E 3005 2342 8775
-        income_account_label: Кошелек AdvCash EUR
-        outcome_account: Кошелек AdvCash EUR, E 3005 2342 8775
-        outcome_account_label: Кошелек AdvCash EUR
+        income_account: Кошелек Volet EUR, E 3005 2342 8775
+        income_account_label: Кошелек Volet EUR
+        outcome_account: Кошелек Volet EUR, E 3005 2342 8775
+        outcome_account_label: Кошелек Volet EUR
       preur:
         income_account: Кошелек Payeer EUR, P1234567
         income_account_label: Кошелек Payeer EUR
@@ -345,15 +345,15 @@ ru:
         outcome_account: Номер карты, 16 цифр
         outcome_account_label: Номер карты
       advckzt:
-        income_account: Кошелек AdvCash KZT, T 3005 2342 8775
-        income_account_label: Кошелек AdvCash KZT
-        outcome_account: Кошелек AdvCash KZT, T 3005 2342 8775
-        outcome_account_label: Кошелек AdvCash KZT
+        income_account: Кошелек Volet KZT, T 3005 2342 8775
+        income_account_label: Кошелек Volet KZT
+        outcome_account: Кошелек Volet KZT, T 3005 2342 8775
+        outcome_account_label: Кошелек Volet KZT
       advcuah:
-        income_account: Кошелек AdvCash UAH, H 3005 2342 8775
-        income_account_label: Кошелек AdvCash UAH
-        outcome_account: Кошелек AdvCash UAH, H 3005 2342 8775
-        outcome_account_label: Кошелек AdvCash UAH
+        income_account: Кошелек Volet UAH, H 3005 2342 8775
+        income_account_label: Кошелек Volet UAH
+        outcome_account: Кошелек Volet UAH, H 3005 2342 8775
+        outcome_account_label: Кошелек Volet UAH
       usdterc20:
         outcome_account: Кошелек USDT ERC20
         outcome_account_label: Кошелек USDT ERC20
