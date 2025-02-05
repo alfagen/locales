@@ -93,8 +93,8 @@ cs:
         outcome_account: Payeer USD wallet, P1234567
         outcome_account_label: Payeer USD wallet
       avbrub:
-        outcome_account: AdvCash wallet, R 3005 2342 8775
-        outcome_account_label: AdvCash wallet
+        outcome_account: Volet wallet, R 3005 2342 8775
+        outcome_account_label: Volet wallet
       ltc:
         outcome_account: Litecoin address
         outcome_account_label: Litecoin address
@@ -102,20 +102,20 @@ cs:
         outcome_account: Ethereum address
         outcome_account_label: Ethereum address
       advcusd:
-        intcome_account: AdvCash USD wallet, U 3005 2342 8775
-        intcome_account_label: AdvCash USD wallet
-        outcome_account: AdvCash USD wallet, U 3005 2342 8775
-        outcome_account_label: AdvCash USD wallet
+        intcome_account: Volet USD wallet, U 3005 2342 8775
+        intcome_account_label: Volet USD wallet
+        outcome_account: Volet USD wallet, U 3005 2342 8775
+        outcome_account_label: Volet USD wallet
       prrub:
         income_account: Payeer RUB wallet, P1234567
         income_account_label: Payeer RUB wallet
         outcome_account: Payeer RUB wallet, P1234567
         outcome_account_label: Payeer RUB wallet
       advcrub:
-        intcome_account: AdvCash RUB  wallet, R 3005 2342 8775
-        intcome_account_label: AdvCash RUB  wallet
-        outcome_account: AdvCash RUB  wallet, R 3005 2342 8775
-        outcome_account_label: AdvCash RUB wallet
+        intcome_account: Volet RUB  wallet, R 3005 2342 8775
+        intcome_account_label: Volet RUB  wallet
+        outcome_account: Volet RUB  wallet, R 3005 2342 8775
+        outcome_account_label: Volet RUB wallet
       dash:
         outcome_account: Dash address
         outcome_account_label: Dash address
@@ -149,10 +149,10 @@ cs:
         outcome_account: Perfect Money wallet, E1234567
         outcome_account_label: Perfect Money wallet
       advceur:
-        income_account: AdvCash EUR wallet, E 3005 2342 8775
-        income_account_label: AdvCash EUR wallet
-        outcome_account: AdvCash EUR wallet, E 3005 2342 8775
-        outcome_account_label: AdvCash EUR wallet
+        income_account: Volet EUR wallet, E 3005 2342 8775
+        income_account_label: Volet EUR wallet
+        outcome_account: Volet EUR wallet, E 3005 2342 8775
+        outcome_account_label: Volet EUR wallet
       preur:
         income_account: Payeer EUR wallet, P1234567
         income_account_label: Payeer EUR wallet
