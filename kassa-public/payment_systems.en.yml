@@ -667,3 +667,16 @@ en:
         income_account_label: Capitalist wallet EUR
         outcome_account: Capitalist wallet EUR
         outcome_account_label: Capitalist wallet EUR
+      cashrub:
+        income_account: Country
+        income_account_label: Country
+        outcome_account: Country
+        outcome_account_label: Country
+        income_operator: City
+        income_operator_label: City
+        outcome_operator: City
+        outcome_operator_label: City
+        income_fio: Sender full name
+        income_fio_label: Sender full name
+        outcome_fio: Receiver full name
+        outcome_fio_label: Receiver full name
