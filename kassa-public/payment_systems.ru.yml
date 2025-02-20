@@ -625,3 +625,16 @@ ru:
         income_account_label: Кошелек Capitalist EUR
         outcome_account: Кошелек Capitalist EUR
         outcome_account_label: Кошелек Capitalist EUR
+      cashrub:
+        income_account: Страна
+        income_account_label: Страна
+        outcome_account: Страна
+        outcome_account_label: Страна
+        income_operator: Город
+        income_operator_label: Город
+        outcome_operator: Город
+        outcome_operator_label: Город
+        income_fio: ФИО плательщика
+        income_fio_label: ФИО плательщика
+        outcome_fio: ФИО получателя
+        outcome_fio_label: ФИО получателя
