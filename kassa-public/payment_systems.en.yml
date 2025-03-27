@@ -65,6 +65,10 @@ en:
         income_city: City
         outcome_country: Country
         outcome_city: City
+        income_country_label: Country
+        income_city_label: City
+        outcome_country_label: Country
+        outcome_city_label: City
       pmusd:
         income_account: Perfect Money wallet, U1234567
         outcome_account: Perfect Money wallet, U1234567

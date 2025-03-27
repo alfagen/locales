@@ -63,6 +63,10 @@ cs:
         income_city: Město
         outcome_country: Země
         outcome_city: Město
+        income_country_label: Země
+        income_city_label: Město
+        outcome_country_label: Země
+        outcome_city_label: Město
       pmusd:
         income_account: Perfect Money wallet, U1234567
         outcome_account: Perfect Money wallet, U1234567

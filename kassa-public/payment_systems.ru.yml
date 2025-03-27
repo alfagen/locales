@@ -69,6 +69,10 @@ ru:
         income_city: Город
         outcome_country: Страна
         outcome_city: Город
+        income_country_label: Страна
+        income_city_label: Город
+        outcome_country_label: Страна
+        outcome_city_label: Город
       pmusd:
         income_account: Кошелек Perfect Money, U1234567
         outcome_account: Кошелек Perfect Money, U1234567
