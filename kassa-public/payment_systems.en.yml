@@ -61,6 +61,10 @@ en:
         outcome_phone: SBP phone number
         income_phone_label: SBP phone number
         outcome_phone_label: SBP phone number
+        income_country: Country
+        income_city: City
+        outcome_country: Country
+        outcome_city: City
       pmusd:
         income_account: Perfect Money wallet, U1234567
         outcome_account: Perfect Money wallet, U1234567

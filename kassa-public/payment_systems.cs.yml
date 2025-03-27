@@ -59,6 +59,10 @@ cs:
         outcome_erip: ERIP
         income_phone: Bank phone number
         outcome_phone: Bank phone number
+        income_country: Země
+        income_city: Město
+        outcome_country: Země
+        outcome_city: Město
       pmusd:
         income_account: Perfect Money wallet, U1234567
         outcome_account: Perfect Money wallet, U1234567

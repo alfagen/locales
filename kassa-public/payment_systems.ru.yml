@@ -65,6 +65,10 @@ ru:
         outcome_phone: Номер телефона СБП
         income_phone_label: Номер телефона СБП
         outcome_phone_label: Номер телефона СБП
+        income_country: Страна
+        income_city: Город
+        outcome_country: Страна
+        outcome_city: Город
       pmusd:
         income_account: Кошелек Perfect Money, U1234567
         outcome_account: Кошелек Perfect Money, U1234567
