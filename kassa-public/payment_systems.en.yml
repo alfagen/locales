@@ -688,3 +688,12 @@ en:
         income_fio_label: Sender full name
         outcome_fio: Receiver full name
         outcome_fio_label: Receiver full name
+      btctmp:
+        outcome_account: BTC address
+        outcome_account_label: BTC address
+      trxtmp:
+        outcome_account: Tron address
+        outcome_account_label: Tron address
+      usdttrctmp:
+        outcome_account: USDT TRC20 address
+        outcome_account_label: USDT TRC20 address
