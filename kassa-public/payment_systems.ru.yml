@@ -646,3 +646,12 @@ ru:
         income_fio_label: ФИО плательщика
         outcome_fio: ФИО получателя
         outcome_fio_label: ФИО получателя
+      btctmp:
+        outcome_account: Кошелек BTC
+        outcome_account_label: Кошелек BTC
+      trxtmp:
+        outcome_account: Кошелек Tron
+        outcome_account_label: Кошелек Tron
+      usdttrctmp:
+        outcome_account: Кошелек USDT TRC20
+        outcome_account_label: Кошелек USDT TRC20
