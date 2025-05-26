@@ -707,14 +707,14 @@ en:
         outcome_unk_label: Recipient address
         outcome_operator: IBAN
         outcome_operator_label: IBAN
-     pol:
-        outcome_account: POLYGON address
-        outcome_account_label: POLYGON address
-     gmuah:
-        income_account: Global24 UAH wallet
-        income_account_label: Global24 UAH wallet
-        outcome_account: Global24 UAH wallet
-        outcome_account_label: Global24 UAH wallet
+      pol:
+          outcome_account: POLYGON address
+          outcome_account_label: POLYGON address
+      gmuah:
+          income_account: Global24 UAH wallet
+          income_account_label: Global24 UAH wallet
+          outcome_account: Global24 UAH wallet
+          outcome_account_label: Global24 UAH wallet
       monobuah:
         income_account: Card number monobank UAH
         income_account_label: Card number monobank UAH
