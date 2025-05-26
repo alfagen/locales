@@ -688,6 +688,13 @@ en:
         income_fio_label: Sender full name
         outcome_fio: Receiver full name
         outcome_fio_label: Receiver full name
+      sepaeur:
+        outcome_account: Card number
+        outcome_account_label: Card number
+        outcome_unk: Recipient address
+        outcome_unk_label: Recipient address
+        outcome_operator: IBAN
+        outcome_operator_label: IBAN
       btctmp:
         outcome_account: BTC address
         outcome_account_label: BTC address
