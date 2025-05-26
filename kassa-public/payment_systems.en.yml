@@ -369,6 +369,18 @@ en:
         income_fio_label: Sender full name
         outcome_fio: Receiver full name
         outcome_fio_label: Receiver full name
+      usdcerc20:
+        outcome_account: USDC ERC20 address
+        outcome_account_label: USDC ERC20 address
+      usdcsol:
+        outcome_account: USDC SOL address
+        outcome_account_label: USDC SOL address
+      usdcbep20:
+        outcome_account: USDC BEP20 address
+        outcome_account_label: USDC BEP20 address
+      usdcpolygon:
+        outcome_account: USDC POLYGON address
+        outcome_account_label: USDC POLYGON address
       hlkbkzt:
         income_account: Card number, 16 digits
         income_account_label: Card number
