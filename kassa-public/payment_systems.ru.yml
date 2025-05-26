@@ -385,7 +385,10 @@ ru:
         outcome_account_label: Кошелек USDC SOL
       usdcbep20:
         outcome_account: Кошелек USDC BEP20
-        outcome_account_label: Кошелек USDC BEP20      
+        outcome_account_label: Кошелек USDC BEP20 
+      usdcpolygon:
+        outcome_account: Кошелек USDC POLYGON
+        outcome_account_label: Кошелек USDC POLYGON
       sol:
         outcome_account: Кошелек Solana
         outcome_account_label: Кошелек Solana
