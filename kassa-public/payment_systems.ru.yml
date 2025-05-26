@@ -367,7 +367,10 @@ ru:
         outcome_account_label: Кошелек USDT ERC20
       usdtpolygon:
         outcome_account: Кошелек USDT POLYGON
-        outcome_account_label: Кошелек USDT POLYGON      
+        outcome_account_label: Кошелек USDT POLYGON 
+      pol:
+        outcome_account: Кошелек POLYGON
+        outcome_account_label: Кошелек POLYGON  
       usdttrc20:
         outcome_account: Кошелек USDT TRC20
         outcome_account_label: Кошелек USDT TRC20
