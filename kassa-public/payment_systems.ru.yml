@@ -659,6 +659,16 @@ ru:
         outcome_unk_label: Адрес получателя
         outcome_operator: IBAN
         outcome_operator_label: IBAN
+      gmuah:
+        income_account: Кошелек Global24 UAH
+        income_account_label: Кошелек Global24 UAH
+        outcome_account: Кошелек Global24 UAH
+        outcome_account_label: Кошелек Global24 UAH
+      monobuah:
+        income_account: Номер карты monobank UAH
+        income_account_label: Номер карты monobank UAH
+        outcome_account: Номер карты monobank UAH
+        outcome_account_label: Номер карты monobank UAH
       trxtmp:
         outcome_account: Кошелек Tron
         outcome_account_label: Кошелек Tron
