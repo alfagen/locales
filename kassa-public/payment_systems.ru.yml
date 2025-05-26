@@ -649,6 +649,13 @@ ru:
       btctmp:
         outcome_account: Кошелек BTC
         outcome_account_label: Кошелек BTC
+      sepaeur:
+        outcome_account: Номер карты
+        outcome_account_label: Номер карты
+        outcome_unk: Адрес получателя
+        outcome_unk_label: Адрес получателя
+        outcome_operator: IBAN
+        outcome_operator_label: IBAN
       trxtmp:
         outcome_account: Кошелек Tron
         outcome_account_label: Кошелек Tron
