@@ -242,6 +242,8 @@ en:
         outcome_fio_label: Receiver full name
         outcome_operator: Date of Birth (01.12.1980)
         outcome_operator_label: Date of Birth (01.12.1980)
+        outcome_unk: IBAN
+        outcome_unk_label: IBAN
       usdt:
         outcome_account: Tether OMNI address
         outcome_account_label: Tether OMNI address
