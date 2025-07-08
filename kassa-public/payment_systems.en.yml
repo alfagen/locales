@@ -92,8 +92,30 @@ en:
         income_account_label: ЮMoney wallet, 10-16 digits
         outcome_account: ЮMoney wallet, 10-16 digits
         outcome_account_label: ЮMoney wallet
+        income_fio: Sender full name
+        income_fio_label: Sender full name
+        outcome_fio: Receiver full name
+        outcome_fio_label: Receiver full name
         outcome_unk: Number associated with SBP
         outcome_unk_label: Number associated with SBP
+      kspbkzt:
+        income_account: Card number, 16-18 digits
+        income_account_label: Card number
+        outcome_account: Card number, 16-18 digits
+        outcome_account_label: Card number
+        income_fio: Sender full name
+        income_fio_label: Sender full name
+        outcome_fio: Receiver full name
+        outcome_fio_label: Receiver full name
+      cardazn:
+        income_account: Card number, 16-18 digits
+        income_account_label: Card number
+        outcome_account: Card number, 16-18 digits
+        outcome_account_label: Card number
+        income_fio: Sender full name
+        income_fio_label: Sender full name
+        outcome_fio: Receiver full name
+        outcome_fio_label: Receiver full name
       qwrub:
         income_account: QIWI wallet, +79999999999
         income_account_label: QIWI wallet, +79999999999
@@ -103,7 +125,8 @@ en:
         outcome_account: BTC address
         outcome_account_label: BTC address
       prusd:
-        intcome_account: Payeer USD wallet, P1234567
+        income_account: Payeer USD wallet, P1234567
+        income_account_label: Payeer USD wallet
         outcome_account: Payeer USD wallet, P1234567
         outcome_account_label: Payeer USD wallet
       avbrub:
@@ -116,8 +139,8 @@ en:
         outcome_account: Ethereum address
         outcome_account_label: Ethereum address
       advcusd:
-        intcome_account: Volet USD wallet, U 3005 2342 8775
-        intcome_account_label: Volet USD wallet
+        income_account: Volet USD wallet, U 3005 2342 8775
+        income_account_label: Volet USD wallet
         outcome_account: Volet USD wallet, U 3005 2342 8775
         outcome_account_label: Volet USD wallet
       prrub:
@@ -126,8 +149,8 @@ en:
         outcome_account: Payeer RUB wallet, P1234567
         outcome_account_label: Payeer RUB wallet
       advcrub:
-        intcome_account: Volet RUB  wallet, R 3005 2342 8775
-        intcome_account_label: Volet RUB  wallet
+        income_account: Volet RUB  wallet, R 3005 2342 8775
+        income_account_label: Volet RUB  wallet
         outcome_account: Volet RUB  wallet, R 3005 2342 8775
         outcome_account_label: Volet RUB wallet
       dash:
@@ -666,14 +689,27 @@ en:
         income_phone_label: SBP phone number
         outcome_phone_label: SBP phone number
       cardbyn:
-          income_account: Card number, 16 digits
-          income_account_label: Card number
-          outcome_account: Card number, 16 digits
-          outcome_account_label: Card number
-          outcome_unk: ERIP
-          outcome_unk_label: ERIP
-          outcome_operator: IBAN
-          outcome_operator_label: IBAN
+        income_account: Card number, 16 digits
+        income_account_label: Card number
+        outcome_account: Card number, 16 digits
+        outcome_account_label: Card number
+        income_fio: Sender full name
+        income_fio_label: Sender full name
+        outcome_fio: Receiver full name
+        outcome_fio_label: Receiver full name
+        outcome_unk: ERIP
+        outcome_unk_label: ERIP
+        outcome_operator: IBAN
+        outcome_operator_label: IBAN
+      cardusd:
+        income_account: Card number, 16 digits
+        income_account_label: Card number
+        outcome_account: Card number, 16 digits
+        outcome_account_label: Card number
+        income_fio: Sender full name
+        income_fio_label: Sender full name
+        outcome_fio: Receiver full name
+        outcome_fio_label: Receiver full name
       cptsusd:
         income_account: Capitalist wallet USD
         income_account_label: Capitalist wallet USD
@@ -728,6 +764,27 @@ en:
       trxtmp:
         outcome_account: Tron address
         outcome_account_label: Tron address
+      usdttrc20:
+        outcome_account: USDT TRC20 address
+        outcome_account_label: USDT TRC20 address
+      usdtarbtm:
+        outcome_account: USDT ARB address
+        outcome_account_label: USDT ARB address
+      usdtsol:
+        outcome_account: USDT SOL address
+        outcome_account_label: USDT SOL address
+      usdtbep20:
+        outcome_account: USDT BEP20 address
+        outcome_account_label: USDT BEP20 address
       usdttrctmp:
         outcome_account: USDT TRC20 address
         outcome_account_label: USDT TRC20 address
+      sol:
+        outcome_account: Solana address
+        outcome_account_label: Solana address
+      link:
+        outcome_account: Chainlink address
+        outcome_account_label: Chainlink address
+      uni:
+        outcome_account: Uniswap address
+        outcome_account_label: Uniswap address
