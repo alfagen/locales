@@ -745,6 +745,10 @@ en:
         outcome_unk_label: Recipient address
         outcome_operator: IBAN
         outcome_operator_label: IBAN
+        income_fio: Sender full name
+        income_fio_label: Sender full name
+        outcome_fio: Receiver full name
+        outcome_fio_label: Receiver full name
       pol:
           outcome_account: POLYGON address
           outcome_account_label: POLYGON address
