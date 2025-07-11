@@ -771,6 +771,9 @@ en:
       usdttrc20:
         outcome_account: USDT TRC20 address
         outcome_account_label: USDT TRC20 address
+      usdterc20:
+        outcome_account: USDT ERC20 address
+        outcome_account_label: USDT ERC20 address
       usdtarbtm:
         outcome_account: USDT ARB address
         outcome_account_label: USDT ARB address
