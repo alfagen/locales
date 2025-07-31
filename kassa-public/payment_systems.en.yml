@@ -762,6 +762,10 @@ en:
         income_account_label: Card number monobank UAH
         outcome_account: Card number monobank UAH
         outcome_account_label: Card number monobank UAH
+        income_fio: Sender full name
+        income_fio_label: Sender full name
+        outcome_fio: Receiver full name
+        outcome_fio_label: Receiver full name
       btctmp:
         outcome_account: BTC address
         outcome_account_label: BTC address
