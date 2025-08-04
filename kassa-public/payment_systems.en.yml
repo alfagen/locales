@@ -799,3 +799,6 @@ en:
       uni:
         outcome_account: Uniswap address
         outcome_account_label: Uniswap address
+      btcbep20:
+        outcome_account: BTC address (BEP20)
+        outcome_account_label: BTC address (BEP20)
