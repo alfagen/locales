@@ -680,3 +680,11 @@ ru:
       usdttrctmp:
         outcome_account: Кошелек USDT TRC20
         outcome_account_label: Кошелек USDT TRC20
+      usdtarbtm:
+        outcome_account: Кошелек USDT Arbitrum
+        outcome_account_label: Кошелек USDT Arbitrum
+        income_account: Кошелек USDT Arbitrum
+        income_account_label: Кошелек USDT Arbitrum
+      btcbep20:
+        outcome_account: Кошелек BTC (BEP20)
+        outcome_account_label: Кошелек BTC (BEP20)
