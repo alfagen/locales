@@ -236,6 +236,32 @@ en:
         outcome_phone: SBP phone number
         income_phone_label: SBP phone number
         outcome_phone_label: SBP phone number
+      accrub:
+        income_account: Card number Alfa bank, 16 digits
+        income_account_label: Card number Alfa bank
+        outcome_account: Card number Alfa bank, 16 digits
+        outcome_account_label: Card number Alfa bank
+        income_fio: Sender full name
+        income_fio_label: Sender full name
+        outcome_fio: Receiver full name
+        outcome_fio_label: Receiver full name
+        income_phone: SBP phone number
+        outcome_phone: SBP phone number
+        income_phone_label: SBP phone number
+        outcome_phone_label: SBP phone number
+      tcsbcrub:
+        income_account: Card number T bank, 16 digits
+        income_account_label: Card number T bank
+        outcome_account: Card number T bank, 16 digits
+        outcome_account_label: Card number T bank
+        income_fio: Sender full name
+        income_fio_label: Sender full name
+        outcome_fio: Receiver full name
+        outcome_fio_label: Receiver full name
+        income_phone: SBP phone number
+        outcome_phone: SBP phone number
+        income_phone_label: SBP phone number
+        outcome_phone_label: SBP phone number
       p24uah:
         income_account: Card number Privat bank, 16 digits
         income_account_label: Card number Privat bank
