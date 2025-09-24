@@ -129,6 +129,7 @@ en:
       goto_link: 'In order to recover the password from your personal account, please
         click on the link below:'
       expiry: The link is valid for 15 and before the first activation on the site.
+      reset_password: 'Reset password'
     change_ticket:
       remove_title: Your application has been deleted!
       remove_status: 'Status of your application: "Deleted"'
