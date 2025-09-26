@@ -239,6 +239,24 @@ ru:
       usdterc:
         outcome_account: Кошелек Tether ERC20
         outcome_account_label: Кошелек Tether ERC20
+      usdtoptm:
+        outcome_account: Кошелек Tether OPT
+        outcome_account_label: Кошелек Tether OPT
+      ethoptm:
+        outcome_account: Кошелек Ethereum OPT
+        outcome_account_label: Кошелек Ethereum OPT
+      etharbtm:
+        outcome_account: Кошелек Ethereum Arb
+        outcome_account_label: Кошелек Ethereum Arb
+      cashidr:
+        outcome_fio: ФИО получателя
+        outcome_fio_label: ФИО получателя
+      cashthb:
+        outcome_fio: ФИО получателя
+        outcome_fio_label: ФИО получателя
+      cashusd:
+        outcome_fio: ФИО получателя
+        outcome_fio_label: ФИО получателя
       eos:
         outcome_account: Кошелек EOS
         outcome_account_label: Кошелек EOS
