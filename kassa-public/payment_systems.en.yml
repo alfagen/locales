@@ -299,6 +299,24 @@ en:
       usdterc:
         outcome_account: Tether ERC20 address
         outcome_account_label: Tether ERC20 address
+      usdtoptm:
+        outcome_account: Tether OPT address
+        outcome_account_label: Tether OPT address
+      ethoptm:
+        outcome_account: Ethereum OPT address
+        outcome_account_label: Ethereum OPT address
+      etharbtm:
+        outcome_account: Ethereum Arb address
+        outcome_account_label: Ethereum Arb address
+      cashidr:
+        outcome_fio: Receiver full name
+        outcome_fio_label: Receiver full name
+      cashthb:
+        outcome_fio: Receiver full name
+        outcome_fio_label: Receiver full name
+      cashusd:
+        outcome_fio: Receiver full name
+        outcome_fio_label: Receiver full name
       eos:
         outcome_account: EOS address
         outcome_account_label: EOS address
