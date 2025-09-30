@@ -73,6 +73,9 @@ ru:
         income_city_label: Город
         outcome_country_label: Страна
         outcome_city_label: Город
+        income_iban: IBAN
+        income_comment: Комментарий
+        outcome_comment: Комментарий
       pmusd:
         income_account: Кошелек Perfect Money, U1234567
         outcome_account: Кошелек Perfect Money, U1234567

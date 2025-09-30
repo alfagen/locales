@@ -67,6 +67,9 @@ cs:
         income_city_label: Město
         outcome_country_label: Země
         outcome_city_label: Město
+        income_iban: IBAN
+        income_comment: Comment
+        outcome_comment: Comment
       pmusd:
         income_account: Perfect Money wallet, U1234567
         outcome_account: Perfect Money wallet, U1234567
