@@ -60,6 +60,7 @@ ru:
         outcome_bank_country: Страна банка
         outcome_birthdate: Дата рождения получателя
         outcome_iban: IBAN
+        outcome_iban_label: IBAN
         outcome_erip: ЕРИП
         income_phone: Номер телефона СБП
         outcome_phone: Номер телефона СБП
@@ -74,8 +75,11 @@ ru:
         outcome_country_label: Страна
         outcome_city_label: Город
         income_iban: IBAN
+        income_iban_label: IBAN
         income_comment: Комментарий
+        income_comment_label: Комментарий
         outcome_comment: Комментарий
+        outcome_comment_label: Комментарий
       pmusd:
         income_account: Кошелек Perfect Money, U1234567
         outcome_account: Кошелек Perfect Money, U1234567
