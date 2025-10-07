@@ -70,8 +70,11 @@ en:
         outcome_country_label: Country
         outcome_city_label: City
         income_iban: IBAN
+        income_iban_label: IBAN
         income_comment: Comment
         outcome_comment: Comment
+        income_comment_label: Comment
+        outcome_comment_label: Comment
       pmusd:
         income_account: Perfect Money wallet, U1234567
         outcome_account: Perfect Money wallet, U1234567
