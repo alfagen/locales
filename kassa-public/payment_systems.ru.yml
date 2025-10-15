@@ -660,6 +660,19 @@ ru:
         income_fio_label: ФИО плательщика
         outcome_fio: ФИО получателя
         outcome_fio_label: ФИО получателя
+      ozonbrub:
+        income_account: Номер карты
+        income_account_label: Номер карты
+        outcome_account: Номер карты
+        outcome_account_label: Номер карты
+        income_unk: Название банка
+        income_unk_label: Название банка
+        outcome_unk: Название банка
+        outcome_unk_label: Название банка
+        income_fio: ФИО плательщика
+        income_fio_label: ФИО плательщика
+        outcome_fio: ФИО получателя
+        outcome_fio_label: ФИО получателя
       cardbyn:
         income_account: Номер карты, 16 цифр
         income_account_label: Номер карты
@@ -728,6 +741,11 @@ ru:
         outcome_account_label: Кошелек USDT Arbitrum
         income_account: Кошелек USDT Arbitrum
         income_account_label: Кошелек USDT Arbitrum
+      usdcarbtm:
+        outcome_account: Кошелек USDC Arbitrum
+        outcome_account_label: Кошелек USDC Arbitrum
+        income_account: Кошелек USDC Arbitrum
+        income_account_label: Кошелек USDC Arbitrum
       btcbep20:
         outcome_account: Кошелек BTC (BEP20)
         outcome_account_label: Кошелек BTC (BEP20)
