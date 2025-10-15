@@ -738,6 +738,19 @@ en:
         outcome_phone: SBP phone number
         income_phone_label: SBP phone number
         outcome_phone_label: SBP phone number
+      ozonbrub:
+        income_account: Card number, 16 digits
+        income_account_label: Card number
+        outcome_account: Card number, 16 digits
+        outcome_account_label: Card number
+        income_fio: Sender full name
+        income_fio_label: Sender full name
+        outcome_fio: Receiver full name
+        outcome_fio_label: Receiver full name
+        income_phone: SBP phone number
+        outcome_phone: SBP phone number
+        income_phone_label: SBP phone number
+        outcome_phone_label: SBP phone number
       cardbyn:
         income_account: Card number, 16 digits
         income_account_label: Card number
@@ -831,6 +844,9 @@ en:
       usdtarbtm:
         outcome_account: USDT ARB address
         outcome_account_label: USDT ARB address
+      usdcarbtm:
+        outcome_account: USDC ARB address
+        outcome_account_label: USDC ARB address
       usdtsol:
         outcome_account: USDT SOL address
         outcome_account_label: USDT SOL address
