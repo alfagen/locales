@@ -189,3 +189,5 @@ ru:
       payment_system: 'Платежная система'
       amount: Сумма
       link_text: 'Создать заявку на обмен'
+    online_payments_request:
+      subject: 'Запрос на подключение онлайн платежей'
