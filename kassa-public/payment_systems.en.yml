@@ -80,6 +80,11 @@ en:
         outcome_account: Perfect Money wallet, U1234567
         income_account_label: Perfect Money wallet
         outcome_account_label: Perfect Money wallet
+      alpcny:
+        income_account: Phone number
+        outcome_account: Phone number
+        income_account_label: Phone number
+        outcome_account_label: Phone number
       sberrub:
         income_account: Sberbank card number, 16-18 digits
         income_account_label: Sberbank card number
