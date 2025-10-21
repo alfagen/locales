@@ -85,6 +85,11 @@ ru:
         outcome_account: Кошелек Perfect Money, U1234567
         income_account_label: Кошелек Perfect Money
         outcome_account_label: Кошелек Perfect Money
+      alpcny:
+        income_account: Номер телефона
+        outcome_account: Номер телефона
+        income_account_label: Номер телефона
+        outcome_account_label: Номер телефона
       sberrub:
         income_account: Номер карты Сбербанка, 16-18 цифр
         income_account_label: Номер карты Сбербанка
