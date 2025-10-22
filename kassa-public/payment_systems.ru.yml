@@ -98,10 +98,10 @@ ru:
         outcome_phone: Номер телефона СБП
         outcome_phone_label: Номер телефона СБП
       yamrub:
-        income_account: Кошелек ЮMoney, 10-16 цифр
-        income_account_label: Кошелек ЮMoney, 10-16 цифр
-        outcome_account: Кошелек ЮMoney, 10-16 цифр
-        outcome_account_label: Кошелек ЮMoney
+        income_account: Номер карты
+        income_account_label: Номер карты
+        outcome_account: Номер карты
+        outcome_account_label: Номер карты
         outcome_unk: Номер привязанный к СБП
         outcome_unk_label: Номер привязанный к СБП
       qwrub:
