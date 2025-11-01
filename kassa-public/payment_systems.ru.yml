@@ -85,6 +85,11 @@ ru:
         outcome_account: Кошелек Perfect Money, U1234567
         income_account_label: Кошелек Perfect Money
         outcome_account_label: Кошелек Perfect Money
+      mngusd:
+        income_account: Кошелек MoneyGo
+        outcome_account: Кошелек MoneyGo
+        income_account_label: Кошелек MoneyGo
+        outcome_account_label: Кошелек MoneyGo
       alpcny:
         income_account: Номер телефона
         outcome_account: Номер телефона
