@@ -80,6 +80,11 @@ en:
         outcome_account: Perfect Money wallet, U1234567
         income_account_label: Perfect Money wallet
         outcome_account_label: Perfect Money wallet
+      mngusd:
+        income_account: MoneyGo wallet
+        outcome_account: MoneyGo wallet
+        income_account_label: MoneyGo wallet
+        outcome_account_label: MoneyGo wallet
       alpcny:
         income_account: Phone number
         outcome_account: Phone number
