@@ -38,9 +38,11 @@ en:
     form_fields:
       default:
         outcome_fio: Receiver full name
+        outcome_fio_label: Receiver full name
         outcome_unk: UNK
         outcome_account: Account number
         income_fio: Sender full name
+        income_fio_label: Sender full name
         income_unk: UNK
         income_account: Account number
         payment_id: Payment ID
