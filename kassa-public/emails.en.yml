@@ -122,6 +122,7 @@ en:
       rate_type: 'Rate type:'
       rate_type_flexible: 'favorable'
       rate_type_fixed: 'fixed'
+      outcome_phone: 'Phone number for receiving:'
     password_remind:
       title: Password recovery
       request: Dear customer, you or someone else has requested a password reminder by

@@ -134,6 +134,7 @@ ru:
       rate_type: 'Тип курса:'
       rate_type_flexible: 'выгодный'
       rate_type_fixed: 'точный'
+      outcome_phone: 'Номер телефона для получения:'
     password_remind:
       title: Восстановление пароля
       request: Уважаемый клиент, Вы, либо кто-то еще запросил напоминание пароля по e-mail.
