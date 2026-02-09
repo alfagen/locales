@@ -1,8 +1,0 @@
-ru:
-  public:
-    oauth:
-      bind_success: You can use %{provider} for authentication
-      already_binded: You already binded %{provider} to account
-      login_and_bind: Login and we will bind %{provider} to your account
-      empty_email: '%{provider} does not provide an email. Unfortunately, we can`t complete the registration without an email address. Please register at https://kassa.cc/registration'
-      error: We`ve requested the data, but %{provider} returned an error. Please try again.

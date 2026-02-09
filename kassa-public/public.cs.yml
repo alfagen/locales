@@ -1,8 +1,0 @@
-ru:
-  public:
-    oauth:
-      bind_success: Nyní se můžete přihlásit pomocí %{provider}
-      already_binded: Už jste propojili %{provider} s jiným účtem
-      binding_needed: Přihlaste se a svážete účet %{provider}
-      empty_email: '%{provider} nedává pryč vaši e-mailovou adresu. Litujeme, nemůžeme vás zaregistrovat bez e-mailu, zaregistrujte se https://kassa.cc/registration'
-      error: Při pokusu o získání dat od% {provider} došlo k chybě, zkuste to znovu
