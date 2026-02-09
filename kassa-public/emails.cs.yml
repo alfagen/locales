@@ -8,101 +8,13 @@ cs:
       final_slogan: 'S vřelostí a duší,<br /> Vaše Kassa!'
       contact_operator: Obraťte se na operátora
       contact_support_if_needed: Pokud máte nějaké dotazy, napište na technickou podporu. Náš tým vám rád pomůže s vyřešením těchto problémů.
-    activation_needed:
-      welcome: Vítejte v naší rodině!
-      congrats:  Gratulujis, %{nickname}!
-      success_registration: 'Úspěšně jste se zaregistrovali na webu směnárenské služby Kassa.cc. Chcete-li získat plný přístup k vašemu osobnímu účtu, musíte svůj účet aktivovat. Po aktivaci si můžete užít všech výhod služby Kassa.'
-      activate_title: Aktivujte svuj ucet
-      follow_the_link: 'Kliknutím na odkaz aktivujte svůj účet a otevřete plný přístup.:'
-      activate_link_title: Activate account
-      profile_access: 'Přístup k vašemu účtu:'
-      use_email_as_login: Použijte svůj e-mail jako přihlašovací jméno.
-      set_password_link: Nastavte heslo pro zadání svého účtu.
-      you_can_change_pasword: Heslo si můžete změnit sami v nastavení vašeho osobního účtu.
-    order_complete:
-      title: Vaše aplikace byla úspěšně zpracována!
-      hello: Pozdravy, %{nickname}!
-      order_complete: Tvá aplikace №%{public_id} byl úspěšně zpracován. Prostředky jsou převedeny na vaše údaje.
-      thanks: Děkujeme za vaši perfektní výměnu!
-      laeve_feedback: Zanechte recenzi o nás
-      laeve_feedback_please: Budeme velmi rádi, pokud necháte recenzi o naší službě na jakémkoli místě, které vám vyhovuje.
-      social_media: 'Sociální média:'
-      sites: 'Weby:'
-      leave_feedback_vk: Napište recenzi na VK
-      leave_feedback_facebook: Zanechte recenzi na Facebooku
-      leave_feedback_bestchange: BestChange - napsat recenzi
-      leave_feedback_mmgp: Napište recenzi na VK
-      outcome_transaction: "Transakce: %{link}"
-      kassa_feedback_button_title: zanechat recenzi
-      kassa_feedback_button_url: https://www.bestchange.net/kassa-exchanger.html
-      xpay_feedback_button_title: zanechat recenzi
-      xpay_feedback_button_url: x
-      mrmoney_feedback_button_title: zanechat recenzi
-      mrmoney_feedback_button_url: x
-    order_cheque_complete:
-      title: Vaše kontrolní číslo!
-      hello: Pozdravy, %{nickname}!
-      order_cheque: 'Podle vaší žádosti №%{public_id} kontrolní číslo bylo úspěšně vytvořeno:'
-      order_info: Data aplikace
-      details_in_profile: Podrobné informace o vaší aplikaci jsou k dispozici také ve vašem účtu.
-      go_to_profile: 'Jdi na profil.:'
-
     common:
-      slogan: Směna valut na jednom místě
-      support: Budete-li mít jakékoli otázky, můžete se prostřednictvím stránek obrátit
-        na technickou podporu na naší stránce nebo nám napsat na adresu <a href='mailto:support@kassa.cc'>support@kassa.cc</a>.
-      receive: Get status
-      support: Máte-li jakékoli dotazy, můžete se obrátit na naši podpůrnou službu na našem webu
-          nebo nám napište na support@kassa.cc.
-      postscript: "Děkujeme, že jste si vybrali naši službu! S pozdravem, Vaše Kassa."
-      contacts: Kontakty
-      copyright: 2022, Kassa.cc — Směna valut na jednom místě
       generic_hello: Dobrý den,
       hello: Dobrý den, <b>%{nickname}</b>,
       goto_lk: Přejít do Klientské zóny
-      contact_operator: Kontaktovat operátora
-      reason: 'Důvod:'
-      create_ticket: Zadat požadavek na směnu
-    activation:
-      title: Aktivace účtu!
-      signup_success: Úspěšně jste se zaregistrovali na Kassa.cc
-      access: 'Přístup k účtu:'
-      login_email: Jako uživatelské jméno použijte Vaši e-mailovou adresu.
-      password: 'Vaše heslo na stránce:'
-      change_password: Změnit své heslo můžete prostřednictvím nastavení v Klientské zóně.
-      change_password_link: Nastavte heslo pro zadání svého účtu.
-      full_access: 'Pro získání úplného přístupu do Klientské zóny je potřeba aktivovat
-        Váš účet. Po aktivaci budete moci využívat všech výhod služby Kassa:'
-      tracking_orders: 'Sledovat stav Vašich požadavků, '
-      ref_programm: Účastnit se referenčního programu a slevových systémů,
-      promo: Využívat propagační materiály pro získání referencí.
-      goto_link: 'Pro aktivaci Vašeho účtu a získání úplného přístupu prosím použijte
-        následující odkaz:'
-      button: Aktivovat účet
-    activation_success:
-      title: Účet byl aktivován
-      message: Váš účet byl úspěšně aktivován.
-      full_access: 'Nyní si můžete vychutnat všechny výhody Kassa:'
-    new_tickets_confirmation:
-      title: Potvrďte výplatu prostředků.
-      outcome: Výplata prostředků ve výši %{amount}.
-      warning: Pokud jste požadavek zadávali Vy, klikněte na tlačítko pro potvrzení výplaty
-        odměn podle aktuálních parametrů. Pokud jste požadavek nezádavali Vy, na tlačítko
-        neklikejte a co nejdříve se obraťte na technickou podporu Kassa.cc.
-      goto_link: 'Pro dokončení zadání požadavku na výplatu odměn prosím využijte následující
-        odkaz:'
-      button: Potvrdit výplatu
     new_tickets:
       title: Váš požadavek byl přijat!
-      preliminary_order_title: Vaše aplikace byla vytvořena!
       create_order: Vážený zákazníku, zadali jste požadavek <b>№%{order_id}</b>.
-      create_output_order: Vážený zákazníku, zadali jste požadavek na výplatu vydělaných
-        prostředků <b>№%{order_id}</b>.
-      accepted: 'Stav Vašeho požadavku: "Přijat".<br /> Naši operátoři zpracují Váš požadavek
-        během 20 minut.'
-      hold: "Převod jsme drželi 48 hodin. To jsou požadavky platebního systému. Poté operátoři žádost zpracují do 20 minut."
-      output_accepted: 'Stav Vašeho požadavku: "Přijat" <br>Během 24 hodin bude Váš požadavek
-        zpracován a prostředku budou převedeny na účet či do peněženky dle Vašeho výběru.'
       none_reserves: Je nám líto, ale k okamžiku zadání okamžiku zadání požadavku nebyla
         k dispozici dostatečná rezerva, a doba vyřízení Vašeho požadavku se může prodloužit
         na 1 až 6 hodin.
@@ -110,70 +22,8 @@ cs:
       number_ticket: 'Č. Vašeho požadavku:'
       direction: 'Směr směny:'
       income_account: Převádíte z účtu/peněženky
-      income_bank: Banka
       income_amount: 'Převáděná částka:'
       outcome_account: 'Přijímáte na účet/do peněženky:'
       outcome_amount: 'Částka k obdržení:'
       fio: 'Jméno a příjmení:'
       create_at: 'Datum a čas vytvoření:'
-      payment_system_name: 'Název platebního systému či banky:'
-      rate_type: 'Typ sazby:'
-      rate_type_flexible: 'příznivé'
-      rate_type_fixed: 'pevné'
-    password_remind:
-      title: Obnova hesla
-      request: 'Vážený zákazníku, Vy, nebo jiná osoba, jste požádal o připomenutí hesla
-        prostřednictvím e-mailu. '
-      goto_link: 'Abychom mohli obnovit heslo od Vaší klientské zóny, použijte prosím
-        následující odkaz:'
-      expiry: Odkaz je platný po dobu 15 minut do prvním aktivace na naší stránce.
-    change_ticket:
-      remove_title: Váš požadavek byl odstraněn!
-      remove_status: 'Stav Vašeho požadavku: "Odstraněn"'
-      check_title: Číslo Vašeho šeku!
-      check_create: 'Na základě Vašeho požadavku bylo úspěšně vytvořeno číslo šeku:'
-      check_view: 'Rovněž se s informacemi o Vašem požadavku můžete seznámit ve své klientské
-        zóně. Pokud se po zpracování požadavku číslo šeku nezobrazilo, obnovte prosím
-        stránku. '
-      done_title: Váš požadavek byl úspěšně zpracován!
-      done_status: Váš požadavek <b>№ %{order_id}</b> byl úspěšně zpracován. Prostředky
-        byly převedeny dle Vámi zadaných parametrů.
-      done_feedback: 'Gratulujeme k provedené směně! =)<br>Udělá nám velkou radost, když
-        o naší službě na jakékoli Vámi používané stránce zanecháte pozitivní recenzi: '
-      done_sites: 'Na stránkách:'
-      done_socials: 'Na sociálních sítích:'
-      error_title: Váš požadavek byl přemístěn mezi Chybné!
-      error_status: 'Stav Vašeho požadavku: "Chybný"'
-      restored_title: Váš požadavek byl obnoven!
-      restored_ticket: Vážený zákazníku, Váš požadavek <b>№ %{order_id}</b> byl obnoven.
-      restored_contact: 'Prosíme o strpení, Váš požadavek zpracujeme v nejbližší době. '
-    pass_change:
-      title: Změna hesla!
-      change_password: Vážený zákazníku, změnili jste heslo ke své klientské zóně.
-      access: 'Přístup k účtu:'
-      new_password: 'Nové heslo:'
-      changed_at: 'Datum změny:'
-    reserve_add:
-      title: Žádost o navýšení rezervy byl zpracována!
-      accepted: Vaše žádost <b>№ %{order_id}</b> o navýšení rezervy služby Kassa.cc byla zpracována.
-      info: 'Informace o žádosti:'
-      payment_system: 'Platební systém:'
-      amount: 'Částka:'
-      create_at: 'Datum zadání požadavku:'
-    verification:
-      success_title: 'Ověření bylo úspěšné'
-      fail_title: 'Ověření odmítnuto'
-      title: Ověření karty!
-      request: Vážený zákazníku, právě jste odeslali požadavek o ověření karty <b>№
-        %{num_cart}</b>.
-      fail: Bohužel jsme byli Váš požadavek nuceni odmítnout =(
-      success: Vaše karta byla úspěšně ověřena! =)
-      reason: Příčinu
-      reserve_request_complete: none
-      title: 'Žádost o doplnění rezervy byla zpracována!'
-      hello: Pozdravy!
-      complete_message: 'Tvůj požadavek №%{id} doplnit rezervu služby Kassa.cc.'
-      request_info: 'Informace na vyžádání'
-      payment_system: 'Platební systém'
-      amount: Množství
-      link_text: 'Vytvořte požadavek na výměnu'
