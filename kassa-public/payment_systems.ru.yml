@@ -759,3 +759,8 @@ ru:
       btcbep20:
         outcome_account: Кошелек BTC (BEP20)
         outcome_account_label: Кошелек BTC (BEP20)
+      cardinr:
+        income_account: Номер карты, 16 цифр
+        income_account_label: Номер карты
+        outcome_account: Номер карты, 16 цифр
+        outcome_account_label: Номер карты
