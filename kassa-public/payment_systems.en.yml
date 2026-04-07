@@ -56,6 +56,7 @@ en:
         outcome_bank_name: Bank Name
         outcome_bank_name_label:  Bank Name
         outcome_bank_country: Bank Country
+        outcome_bank_country_label: Bank Country
         outcome_birthdate: Birthdate of receiver
         outcome_iban: IBAN
         outcome_erip: ERIP

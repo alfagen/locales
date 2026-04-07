@@ -58,6 +58,7 @@ ru:
         outcome_bank_name: Название банка
         outcome_bank_name_label: Название банка
         outcome_bank_country: Страна банка
+        outcome_bank_country_label: Страна банка
         outcome_birthdate: Дата рождения получателя
         outcome_iban: IBAN
         outcome_iban_label: IBAN
